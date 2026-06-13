@@ -1,0 +1,15 @@
+{
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "showFrontmatter": true,
+  "tabSize": 2,
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Resources/attachments"
+}

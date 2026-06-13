@@ -1,0 +1,4442 @@
+[
+  {
+    "id": 1726273,
+    "parentId": 1726,
+    "order": 1,
+    "latitude": 41.27232745,
+    "longitude": 69.285946783,
+    "name": {
+      "uz": "Mirobod tumani",
+      "uzc": "Миробод тумани",
+      "ru": "Мирабадский район",
+      "en": "Mirobod",
+      "kaa": "Миробод тумани"
+    },
+    "shortName": {
+      "en": "Mirobod",
+      "ru": "Мирабад",
+      "uz": "Mirobod",
+      "uzc": "Миробод"
+    }
+  },
+  {
+    "id": 1733401,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.5517903,
+    "longitude": 60.631281,
+    "name": {
+      "uz": "Urganch shahri",
+      "uzc": "Урганч шаҳри",
+      "ru": "Город Ургенч",
+      "en": "Urganch",
+      "kaa": "Урганч шаҳри"
+    },
+    "shortName": {
+      "en": "Urganch city",
+      "ru": "г. Ургенч",
+      "uz": "Urganch sh.",
+      "uzc": "Урганч ш."
+    }
+  },
+  {
+    "id": 1706401,
+    "parentId": 1706,
+    "order": 1,
+    "latitude": 39.7675529,
+    "longitude": 64.4231326,
+    "name": {
+      "uz": "Buxoro shahri",
+      "uzc": "Бухоро шаҳри",
+      "ru": "Город Бухара",
+      "en": "Buxoro",
+      "kaa": "Бухоро шаҳри"
+    },
+    "shortName": {
+      "en": "Buxoro",
+      "ru": "г. Бухара",
+      "uz": "Buxoro sh.",
+      "uzc": "Бухоро ш."
+    }
+  },
+  {
+    "id": 1730408,
+    "parentId": 1730,
+    "order": 1,
+    "latitude": 40.2939148,
+    "longitude": 71.9851035,
+    "name": {
+      "uz": "Quvasoy shahri",
+      "uzc": "Қувасой шаҳри",
+      "ru": "Город Кувасай",
+      "en": "Quvasoy",
+      "kaa": "Қувасой шаҳри"
+    },
+    "shortName": {
+      "en": "Quvasoy",
+      "ru": "г. Кувасай",
+      "uz": "Quvasoy sh.",
+      "uzc": "Қувасой ш."
+    }
+  },
+  {
+    "id": 1714401,
+    "parentId": 1714,
+    "order": 1,
+    "latitude": 40.9996482,
+    "longitude": 71.6726238,
+    "name": {
+      "uz": "Namangan shahri",
+      "uzc": "Наманган шаҳри",
+      "ru": "Город Наманган",
+      "en": "Namangan",
+      "kaa": "Наманган шаҳри"
+    },
+    "shortName": {
+      "en": "Namangan city",
+      "ru": "г. Наманган",
+      "uz": "Namangan sh.",
+      "uzc": "Наманган ш."
+    }
+  },
+  {
+    "id": 1727220,
+    "parentId": 1727,
+    "order": 1,
+    "latitude": 40.2320291,
+    "longitude": 69.2531407,
+    "name": {
+      "uz": "Bekobod tumani",
+      "uzc": "Бекобод тумани",
+      "ru": "Бекабадский район",
+      "en": "Bekobod",
+      "kaa": "Бекобод тумани"
+    },
+    "shortName": {
+      "en": "Bekobod",
+      "ru": "Бекабад",
+      "uz": "Bekobod",
+      "uzc": "Бекобод"
+    }
+  },
+  {
+    "id": 1733217,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.5517903,
+    "longitude": 60.631281,
+    "name": {
+      "uz": "Urganch tumani",
+      "uzc": "Урганч тумани",
+      "ru": "Ургенчский район",
+      "en": "Urganch",
+      "kaa": "Урганч тумани"
+    },
+    "shortName": {
+      "en": "Urganch",
+      "ru": "Ургенч",
+      "uz": "Urganch",
+      "uzc": "Урганч"
+    }
+  },
+  {
+    "id": 1733208,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.8447222,
+    "longitude": 60.3898845,
+    "name": {
+      "uz": "Gurlan tumani",
+      "uzc": "Гурлан тумани",
+      "ru": "Гурленский район",
+      "en": "Gurlan",
+      "kaa": "Гурлан тумани"
+    },
+    "shortName": {
+      "en": "Gurlan",
+      "ru": "Гурлен",
+      "uz": "Gurlan",
+      "uzc": "Гурлан"
+    }
+  },
+  {
+    "id": 1733220,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.284269,
+    "longitude": 61.140964,
+    "name": {
+      "uz": "Xazorasp tumani",
+      "uzc": "Хазорасп тумани",
+      "ru": "Хазараспский район",
+      "en": "Xazorasp",
+      "kaa": "Хазорасп тумани"
+    },
+    "shortName": {
+      "en": "Xazorasp",
+      "ru": "Хазарасп",
+      "uz": "Xazorasp",
+      "uzc": "Хазорасп"
+    }
+  },
+  {
+    "id": 1733221,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 40.8470909,
+    "longitude": 62.0468555,
+    "name": {
+      "uz": "Tuproqqal’a tumani",
+      "uzc": "Тупроққалъа тумани",
+      "ru": "Тупроккалинский район",
+      "en": "Tuproqqal’a",
+      "kaa": "Тупроққалъа тумани"
+    },
+    "shortName": {
+      "en": "Typroqqala",
+      "ru": "Тупроккаля",
+      "uz": "Tuproqqal’a",
+      "uzc": "Тупроққалъа"
+    }
+  },
+  {
+    "id": 1733212,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.5207261,
+    "longitude": 60.3508186,
+    "name": {
+      "uz": "Qo‘shko‘pir tumani",
+      "uzc": "Қўшкўпир тумани",
+      "ru": "Кошкупырский район",
+      "en": "Qo‘shko‘pir",
+      "kaa": "Қўшкўпир тумани"
+    },
+    "shortName": {
+      "en": "Qoshkopir",
+      "ru": "Кошкупыр",
+      "uz": "Qo‘shko‘pir",
+      "uzc": "Қўшқўпир"
+    }
+  },
+  {
+    "id": 1733230,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.6607069,
+    "longitude": 60.292372,
+    "name": {
+      "uz": "Shovot tumani",
+      "uzc": "Шовот тумани",
+      "ru": "Шаватский район",
+      "en": "Shovot",
+      "kaa": "Шовот тумани"
+    },
+    "shortName": {
+      "en": "Shovot",
+      "ru": "Шават",
+      "uz": "Shovot",
+      "uzc": "Шовот"
+    }
+  },
+  {
+    "id": 1733204,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.3572425,
+    "longitude": 60.818505,
+    "name": {
+      "uz": "Bog‘ot tumani",
+      "uzc": "Боғот тумани",
+      "ru": "Багатский район",
+      "en": "Bog‘ot",
+      "kaa": "Боғот тумани"
+    },
+    "shortName": {
+      "en": "Bogot",
+      "ru": "Багат",
+      "uz": "Bog‘ot",
+      "uzc": "Боғот"
+    }
+  },
+  {
+    "id": 1733233,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.3667743,
+    "longitude": 60.6059782,
+    "name": {
+      "uz": "Yangiariq tumani",
+      "uzc": "Янгиариқ тумани",
+      "ru": "Янгиарыкский район",
+      "en": "Yangiariq",
+      "kaa": "Янгиариқ тумани"
+    },
+    "shortName": {
+      "en": "Yangiariq",
+      "ru": "Янгиарык",
+      "uz": "Yangiariq",
+      "uzc": "Янгиариқ"
+    }
+  },
+  {
+    "id": 1718401,
+    "parentId": 1718,
+    "order": 1,
+    "latitude": 39.6550017,
+    "longitude": 66.9756954,
+    "name": {
+      "uz": "Samarqand shahri",
+      "uzc": "Самарқанд шаҳри",
+      "ru": "Город Самарканд",
+      "en": "Samarqand",
+      "kaa": "Самарқанд шаҳри"
+    },
+    "shortName": {
+      "en": "Samarqand city",
+      "ru": "г. Самарканд",
+      "uz": "Samarqand sh.",
+      "uzc": "Самарқанд ш."
+    }
+  },
+  {
+    "id": 1735,
+    "parentId": null,
+    "order": 1,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Qoraqalpog‘iston Respublikasi",
+      "uzc": "Қорақалпоғистон Республикаси",
+      "ru": "Республика Каракалпакстан",
+      "en": "Qoraqalpog‘iston",
+      "kaa": "Қорақалпоғистон Республикаси"
+    },
+    "shortName": {
+      "en": "Karakalpakstan",
+      "ru": "Каракалпакстан",
+      "uz": "Qoraqalpog‘iston",
+      "uzc": "Қорақалпоғистон"
+    }
+  },
+  {
+    "id": 1733406,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.3776893,
+    "longitude": 60.3620006,
+    "name": {
+      "uz": "Xiva shahri",
+      "uzc": "Хива шаҳри",
+      "ru": "Город Хива",
+      "en": "Xiva",
+      "kaa": "Хива шаҳри"
+    },
+    "shortName": {
+      "en": "Xiva city",
+      "ru": "г. Хива",
+      "uz": "Xiva sh.",
+      "uzc": "Хива ш."
+    }
+  },
+  {
+    "id": 1724206,
+    "parentId": 1724,
+    "order": 1,
+    "latitude": 40.6048266,
+    "longitude": 68.7230058,
+    "name": {
+      "uz": "Oqoltin tumani",
+      "uzc": "Оқолтин тумани",
+      "ru": "Акалтынский район",
+      "en": "Oqoltin",
+      "kaa": "Оқолтин тумани"
+    },
+    "shortName": {
+      "en": "Oqoltin",
+      "ru": "Акалтын",
+      "uz": "Oqoltin",
+      "uzc": "Оқолтин"
+    }
+  },
+  {
+    "id": 1733236,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.7109614,
+    "longitude": 60.53109,
+    "name": {
+      "uz": "Yangibozor tumani",
+      "uzc": "Янгибозор тумани",
+      "ru": "Янгибазарский район",
+      "en": "Yangibozor",
+      "kaa": "Янгибозор тумани"
+    },
+    "shortName": {
+      "en": "Yangibuzkor",
+      "ru": "Янгибазар",
+      "uz": "Yangibuzkor",
+      "uzc": "Янгибозор"
+    }
+  },
+  {
+    "id": 1722401,
+    "parentId": 1722,
+    "order": 1,
+    "latitude": 37.2442466,
+    "longitude": 67.283151,
+    "name": {
+      "uz": "Termiz shahri",
+      "uzc": "Термиз шаҳри",
+      "ru": "Город Термез",
+      "en": "Termiz",
+      "kaa": "Термиз шаҳри"
+    },
+    "shortName": {
+      "en": "Termiz city",
+      "ru": "г. Термез",
+      "uz": "Termiz sh.",
+      "uzc": "Термиз ш."
+    }
+  },
+  {
+    "id": 1703401,
+    "parentId": 1703,
+    "order": 1,
+    "latitude": 40.7833471,
+    "longitude": 72.3506746,
+    "name": {
+      "uz": "Andijon shahri",
+      "uzc": "Андижон шаҳри",
+      "ru": "Город Андижан",
+      "en": "Andijon",
+      "kaa": "Андижон шаҳри"
+    },
+    "shortName": {
+      "en": "Andijan",
+      "ru": "г. Андижан",
+      "uz": "Andijon sh.",
+      "uzc": "Андижон ш."
+    }
+  },
+  {
+    "id": 1710401,
+    "parentId": 1710,
+    "order": 1,
+    "latitude": 38.839824,
+    "longitude": 65.7927794,
+    "name": {
+      "uz": "Qarshi shahri",
+      "uzc": "Қарши шаҳри",
+      "ru": "Город Карши",
+      "en": "Qarshi",
+      "kaa": "Қарши шаҳри"
+    },
+    "shortName": {
+      "en": "Qarshi city",
+      "ru": "г. Карши",
+      "uz": "Qarshi sh.",
+      "uzc": "Қарши ш."
+    }
+  },
+  {
+    "id": 1733223,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.4746133,
+    "longitude": 60.7768492,
+    "name": {
+      "uz": "Xonqa tumani",
+      "uzc": "Хонқа тумани",
+      "ru": "Ханкинский район",
+      "en": "Xonqa",
+      "kaa": "Хонқа тумани"
+    },
+    "shortName": {
+      "en": "Xonqa",
+      "ru": "Ханка",
+      "uz": "Xonqa",
+      "uzc": "Хонқа"
+    }
+  },
+  {
+    "id": 1733226,
+    "parentId": 1733,
+    "order": 1,
+    "latitude": 41.3776893,
+    "longitude": 60.3620006,
+    "name": {
+      "uz": "Xiva tumani",
+      "uzc": "Хива тумани",
+      "ru": "Хивинский район",
+      "en": "Xiva",
+      "kaa": "Хива тумани"
+    },
+    "shortName": {
+      "en": "Xiva",
+      "ru": "Хива",
+      "uz": "Xiva",
+      "uzc": "Хива"
+    }
+  },
+  {
+    "id": 1735401,
+    "parentId": 1735,
+    "order": 1,
+    "latitude": 42.4600229,
+    "longitude": 59.6176603,
+    "name": {
+      "uz": "Nukus shahri",
+      "uzc": "Нукус шаҳри",
+      "ru": "Город Нукус",
+      "en": "Nukus",
+      "kaa": "Нукус шаҳри"
+    },
+    "shortName": {
+      "en": "Nukus city",
+      "ru": "г. Нукус",
+      "uz": "Nukus sh.",
+      "uzc": "Нукус ш."
+    }
+  },
+  {
+    "id": 1708201,
+    "parentId": 1708,
+    "order": 1,
+    "latitude": 41.2806209,
+    "longitude": 69.2281989,
+    "name": {
+      "uz": "Arnasoy tumani",
+      "uzc": "Арнасой тумани",
+      "ru": "Арнасайский район",
+      "en": "Arnasoy",
+      "kaa": "Арнасой тумани"
+    },
+    "shortName": {
+      "en": "Arnasoy",
+      "ru": "Арнасай",
+      "uz": "Arnasoy",
+      "uzc": "Арнасой"
+    }
+  },
+  {
+    "id": 1712401,
+    "parentId": 1712,
+    "order": 1,
+    "latitude": 40.1034582,
+    "longitude": 65.3734221,
+    "name": {
+      "uz": "Navoiy shahri",
+      "uzc": "Навоий шаҳри",
+      "ru": "Город Навои",
+      "en": "Navoiy",
+      "kaa": "Навоий шаҳри"
+    },
+    "shortName": {
+      "en": "Navoiy city",
+      "ru": "г. Навои",
+      "uz": "Navoiy sh.",
+      "uzc": "Навоий ш."
+    }
+  },
+  {
+    "id": 1706,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Buxoro viloyati",
+      "uzc": "Бухоро вилояти",
+      "ru": "Бухарская область",
+      "en": "Buxoro",
+      "kaa": "Бухоро вилояти"
+    },
+    "shortName": {
+      "en": "Bukhara",
+      "ru": "Бухара",
+      "uz": "Buxoro",
+      "uzc": "Бухоро"
+    }
+  },
+  {
+    "id": 1718,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Samarqand viloyati",
+      "uzc": "Самарқанд вилояти",
+      "ru": "Самаркандская область",
+      "en": "Samarqand",
+      "kaa": "Самарқанд вилояти"
+    },
+    "shortName": {
+      "en": "Samarqand",
+      "ru": "Самарканд",
+      "uz": "Samarqand",
+      "uzc": "Самарқанд"
+    }
+  },
+  {
+    "id": 1733,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Xorazm viloyati",
+      "uzc": "Хоразм вилояти",
+      "ru": "Хорезмская область",
+      "en": "Xorazm",
+      "kaa": "Хоразм вилояти"
+    },
+    "shortName": {
+      "en": "Xorazm",
+      "ru": "Хорезм",
+      "uz": "Xorazm",
+      "uzc": "Хоразм"
+    }
+  },
+  {
+    "id": 1727,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Toshkent viloyati",
+      "uzc": "Тошкент вилояти",
+      "ru": "Ташкентская область",
+      "en": "Toshkent",
+      "kaa": "Тошкент вилояти"
+    },
+    "shortName": {
+      "en": "Tashkent",
+      "ru": "Ташкент",
+      "uz": "Toshkent",
+      "uzc": "Тошкент"
+    }
+  },
+  {
+    "id": 1708,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Jizzax viloyati",
+      "uzc": "Жиззах вилояти",
+      "ru": "Джизакская область",
+      "en": "Jizzax",
+      "kaa": "Жиззах вилояти"
+    },
+    "shortName": {
+      "en": "Jizzakh",
+      "ru": "Джизак",
+      "uz": "Jizzax",
+      "uzc": "Жиззах"
+    }
+  },
+  {
+    "id": 1710,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Qashqadaryo viloyati",
+      "uzc": "Қашқадарё вилояти",
+      "ru": "Кашкадарьинская область",
+      "en": "Qashqadaryo",
+      "kaa": "Қашқадарё вилояти"
+    },
+    "shortName": {
+      "en": "Qashqadaryo",
+      "ru": "Кашкадарья",
+      "uz": "Qashqadaryo",
+      "uzc": "Қашқадарё"
+    }
+  },
+  {
+    "id": 1722,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Surxondaryo viloyati",
+      "uzc": "Сурхондарё вилояти",
+      "ru": "Сурхандарьинская область",
+      "en": "Surxondaryo",
+      "kaa": "Сурхондарё вилояти"
+    },
+    "shortName": {
+      "en": "Surxondaryo",
+      "ru": "Сурхандарья",
+      "uz": "Surxondaryo",
+      "uzc": "Сурхондарё"
+    }
+  },
+  {
+    "id": 1714,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Namangan viloyati",
+      "uzc": "Наманган вилояти",
+      "ru": "Наманганская область",
+      "en": "Namangan",
+      "kaa": "Наманган вилояти"
+    },
+    "shortName": {
+      "en": "Namangan",
+      "ru": "Наманган",
+      "uz": "Namangan",
+      "uzc": "Наманган"
+    }
+  },
+  {
+    "id": 1724,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Sirdaryo viloyati",
+      "uzc": "Сирдарё вилояти",
+      "ru": "Сырдарьинская область",
+      "en": "Sirdaryo",
+      "kaa": "Сирдарё вилояти"
+    },
+    "shortName": {
+      "en": "Sirdaryo",
+      "ru": "Сырдарья",
+      "uz": "Sirdaryo",
+      "uzc": "Сирдарё"
+    }
+  },
+  {
+    "id": 1730,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Farg‘ona viloyati",
+      "uzc": "Фарғона вилояти",
+      "ru": "Ферганская область",
+      "en": "Farg‘ona",
+      "kaa": "Фарғона вилояти"
+    },
+    "shortName": {
+      "en": "Fergana",
+      "ru": "Фергана",
+      "uz": "Farg‘ona",
+      "uzc": "Фарғона"
+    }
+  },
+  {
+    "id": 1712,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Navoiy viloyati",
+      "uzc": "Навоий вилояти",
+      "ru": "Навоийская область",
+      "en": "Navoiy",
+      "kaa": "Навоий вилояти"
+    },
+    "shortName": {
+      "en": "Navoiy",
+      "ru": "Навоий",
+      "uz": "Navoiy",
+      "uzc": "Навоий"
+    }
+  },
+  {
+    "id": 1724212,
+    "parentId": 1724,
+    "order": 2,
+    "latitude": 40.366103,
+    "longitude": 68.941144,
+    "name": {
+      "uz": "Boyovut tumani",
+      "uzc": "Боёвут тумани",
+      "ru": "Баяутский район",
+      "en": "Boyovut",
+      "kaa": "Боёвут тумани"
+    },
+    "shortName": {
+      "en": "Boyovut",
+      "ru": "Бойовут",
+      "uz": "Boyovut",
+      "uzc": "Боёвут"
+    }
+  },
+  {
+    "id": 1726269,
+    "parentId": 1726,
+    "order": 2,
+    "latitude": 41.3266169,
+    "longitude": 69.2421944757,
+    "name": {
+      "uz": "Mirzo Ulug‘bek tumani",
+      "uzc": "Мирзо Улуғбек тумани",
+      "ru": "Мирзо-Улугбекский район",
+      "en": "Mirzo Ulug‘bek",
+      "kaa": "Мирзо Улуғбек тумани"
+    },
+    "shortName": {
+      "en": "Mirzo Ulugbek",
+      "ru": "Мирзо-Улугбек",
+      "uz": "Mirzo Ulug‘bek",
+      "uzc": "Мирзо-Улуғбек"
+    }
+  },
+  {
+    "id": 1703408,
+    "parentId": 1703,
+    "order": 2,
+    "latitude": 40.811719,
+    "longitude": 73.054844,
+    "name": {
+      "uz": "Xonobod shahar",
+      "uzc": "Хонобод шаҳар",
+      "ru": "Город Ханабад",
+      "en": "Xonobod",
+      "kaa": "Хонобод шаҳар"
+    },
+    "shortName": {
+      "en": "Xonobod city",
+      "ru": "г. Ханабад",
+      "uz": "Xonobod sh.",
+      "uzc": "Хонобод ш."
+    }
+  },
+  {
+    "id": 1703,
+    "parentId": null,
+    "order": 2,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Andijon viloyati",
+      "uzc": "Андижон вилояти",
+      "ru": "Андижанская область",
+      "en": "Andijon",
+      "kaa": "Андижон вилояти"
+    },
+    "shortName": {
+      "en": "Andijan",
+      "ru": "Андижан",
+      "uz": "Andijon",
+      "uzc": "Андижон"
+    }
+  },
+  {
+    "id": 1708204,
+    "parentId": 1708,
+    "order": 2,
+    "latitude": 38.6323873,
+    "longitude": 66.2900341,
+    "name": {
+      "uz": "Baxmal tumani",
+      "uzc": "Бахмал тумани",
+      "ru": "Бахмальский район",
+      "en": "Baxmal",
+      "kaa": "Бахмал тумани"
+    },
+    "shortName": {
+      "en": "Baxmal",
+      "ru": "Бахмаль",
+      "uz": "Baxmal",
+      "uzc": "Бахмал"
+    }
+  },
+  {
+    "id": 1710405,
+    "parentId": 1710,
+    "order": 2,
+    "latitude": 39.0525821,
+    "longitude": 66.8278643,
+    "name": {
+      "uz": "Shahrisabz shahri",
+      "uzc": "Шаҳрисабз шаҳри",
+      "ru": "Город Шахрисабз",
+      "en": "Shahrisabz",
+      "kaa": "Шаҳрисабз шаҳри"
+    },
+    "shortName": {
+      "en": "Shahrisabz city",
+      "ru": "г. Шахрисабз",
+      "uz": "Shahrisabz sh.",
+      "uzc": "Шахрисабз ш."
+    }
+  },
+  {
+    "id": 1727228,
+    "parentId": 1727,
+    "order": 2,
+    "latitude": 40.8169357,
+    "longitude": 69.1998496,
+    "name": {
+      "uz": "Bo‘ka tumani",
+      "uzc": "Бўка тумани",
+      "ru": "Букинский район",
+      "en": "Bo‘ka",
+      "kaa": "Бўка тумани"
+    },
+    "shortName": {
+      "en": "Boka",
+      "ru": "Бука",
+      "uz": "Bo‘ka",
+      "uzc": "Бўка"
+    }
+  },
+  {
+    "id": 1712408,
+    "parentId": 1712,
+    "order": 2,
+    "latitude": 39.5665657,
+    "longitude": 67.3469505,
+    "name": {
+      "uz": "Zarafshon shahri",
+      "uzc": "Зарафшон шаҳри",
+      "ru": "Город Заpафшан",
+      "en": "Zarafshon",
+      "kaa": "Зарафшон шаҳри"
+    },
+    "shortName": {
+      "en": "Zafarshon",
+      "ru": "г. Заpафшан",
+      "uz": "Zarafshon sh.",
+      "uzc": "Зарафшон ш."
+    }
+  },
+  {
+    "id": 1708209,
+    "parentId": 1708,
+    "order": 3,
+    "latitude": 40.0279591,
+    "longitude": 67.5892851,
+    "name": {
+      "uz": "G‘allaorol tumani",
+      "uzc": "Ғаллаорол тумани",
+      "ru": "Галляаральский район",
+      "en": "G‘allaorol",
+      "kaa": "Ғаллаорол тумани"
+    },
+    "shortName": {
+      "en": "Gallaorol",
+      "ru": "Галляараль",
+      "uz": "G‘allaorol",
+      "uzc": "Ғаллаорол"
+    }
+  },
+  {
+    "id": 1712248,
+    "parentId": 1712,
+    "order": 3,
+    "latitude": 42.1532768,
+    "longitude": 63.5622099,
+    "name": {
+      "uz": "Uchquduq tumani",
+      "uzc": "Учқудуқ тумани",
+      "ru": "Учкудукский район",
+      "en": "Uchquduq",
+      "kaa": "Учқудуқ тумани"
+    },
+    "shortName": {
+      "en": "Uchquduq",
+      "ru": "Учкудук",
+      "uz": "Uchquduq",
+      "uzc": "Учқудуқ"
+    }
+  },
+  {
+    "id": 1706403,
+    "parentId": 1706,
+    "order": 3,
+    "latitude": 39.7244996,
+    "longitude": 64.5451844,
+    "name": {
+      "uz": "Kogon shahri",
+      "uzc": "Когон шаҳри",
+      "ru": "Город Каган",
+      "en": "Kogon",
+      "kaa": "Когон шаҳри"
+    },
+    "shortName": {
+      "en": "Kogon",
+      "ru": "г. Каган",
+      "uz": "Kogon sh.",
+      "uzc": "Когон ш."
+    }
+  },
+  {
+    "id": 1726,
+    "parentId": null,
+    "order": 3,
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "uz": "Toshkent shahri",
+      "uzc": "Тошкент шаҳри",
+      "ru": "Город Ташкент",
+      "en": "Toshkent shahar",
+      "kaa": "Тошкент шаҳри"
+    },
+    "shortName": {
+      "en": "Tashkent city",
+      "ru": "г. Ташкент",
+      "uz": "Toshkent sh.",
+      "uzc": "Тошкент ш."
+    }
+  },
+  {
+    "id": 1722202,
+    "parentId": 1722,
+    "order": 3,
+    "latitude": 37.4624158,
+    "longitude": 67.1517572,
+    "name": {
+      "uz": "Angor tumani",
+      "uzc": "Ангор тумани",
+      "ru": "Ангорский район",
+      "en": "Angor",
+      "kaa": "Ангор тумани"
+    },
+    "shortName": {
+      "en": "Angor",
+      "ru": "Ангор",
+      "uz": "Angor",
+      "uzc": "Ангор"
+    }
+  },
+  {
+    "id": 1727224,
+    "parentId": 1727,
+    "order": 3,
+    "latitude": 41.57161,
+    "longitude": 69.939352,
+    "name": {
+      "uz": "Bo‘stonliq tumani",
+      "uzc": "Бўстонлиқ тумани",
+      "ru": "Бостанлыкский район",
+      "en": "Bo‘stonliq",
+      "kaa": "Бўстонлиқ тумани"
+    },
+    "shortName": {
+      "en": "Bostonliq",
+      "ru": "Бостанлык",
+      "uz": "Bo‘stonliq",
+      "uzc": "Бўстонлиқ"
+    }
+  },
+  {
+    "id": 1730405,
+    "parentId": 1730,
+    "order": 3,
+    "latitude": 40.5331676,
+    "longitude": 70.94009009,
+    "name": {
+      "uz": "Qo‘qon shahri",
+      "uzc": "Қўқон шаҳри",
+      "ru": "Город Коканд",
+      "en": "Qo‘qon",
+      "kaa": "Қўқон шаҳри"
+    },
+    "shortName": {
+      "en": "Kokan",
+      "ru": "г. Коканд",
+      "uz": "Qo‘qon sh.",
+      "uzc": "Қўқон ш."
+    }
+  },
+  {
+    "id": 1724220,
+    "parentId": 1724,
+    "order": 3,
+    "latitude": 40.522099049,
+    "longitude": 68.78032001983,
+    "name": {
+      "uz": "Guliston tumani",
+      "uzc": "Гулистон тумани",
+      "ru": "Гулистанский район",
+      "en": "Guliston",
+      "kaa": "Гулистон тумани"
+    },
+    "shortName": {
+      "en": "Guliston",
+      "ru": "Гулистан",
+      "uz": "Guliston",
+      "uzc": "Гулистон"
+    }
+  },
+  {
+    "id": 1726266,
+    "parentId": 1726,
+    "order": 3,
+    "latitude": 41.33171925,
+    "longitude": 69.2816080031,
+    "name": {
+      "uz": "Yunusobod tumani",
+      "uzc": "Юнусобод тумани",
+      "ru": "Юнусабадский район",
+      "en": "Yunusobod",
+      "kaa": "Юнусобод тумани"
+    },
+    "shortName": {
+      "en": "Yunusobod",
+      "ru": "Юнусабад",
+      "uz": "Yunusobod",
+      "uzc": "Юнусобод"
+    }
+  },
+  {
+    "id": 1712211,
+    "parentId": 1712,
+    "order": 4,
+    "latitude": 40.2779098,
+    "longitude": 65.1427375,
+    "name": {
+      "uz": "Konimex tumani",
+      "uzc": "Конимех тумани",
+      "ru": "Канимехский район",
+      "en": "Konimex",
+      "kaa": "Конимех тумани"
+    },
+    "shortName": {
+      "en": "Konimex",
+      "ru": "Канимех",
+      "uz": "Konimex",
+      "uzc": "Конимех"
+    }
+  },
+  {
+    "id": 1718238,
+    "parentId": 1718,
+    "order": 4,
+    "latitude": 39.570805,
+    "longitude": 67.150172,
+    "name": {
+      "uz": "Tayloq tumani",
+      "uzc": "Тайлоқ тумани",
+      "ru": "Тайлякский район",
+      "en": "Tayloq",
+      "kaa": "Тайлоқ тумани"
+    },
+    "shortName": {
+      "en": "Tayloq",
+      "ru": "Тайляк",
+      "uz": "Tayloq",
+      "uzc": "Тайлоқ"
+    }
+  },
+  {
+    "id": 1706204,
+    "parentId": 1706,
+    "order": 4,
+    "latitude": 39.251207,
+    "longitude": 64.116768,
+    "name": {
+      "uz": "Olot tumani",
+      "uzc": "Олот тумани",
+      "ru": "Алатский район",
+      "en": "Olot",
+      "kaa": "Олот тумани"
+    },
+    "shortName": {
+      "en": "Alat",
+      "ru": "Алат",
+      "uz": "Olot",
+      "uzc": "Олот"
+    }
+  },
+  {
+    "id": 1726287,
+    "parentId": 1726,
+    "order": 4,
+    "latitude": 41.286011,
+    "longitude": 69.253766,
+    "name": {
+      "uz": "Yakkasaroy tumani",
+      "uzc": "Яккасарой тумани",
+      "ru": "Яккасарайский район",
+      "en": "Yakkasaroy",
+      "kaa": "Яккасарой тумани"
+    },
+    "shortName": {
+      "en": "Yakkasaroy",
+      "ru": "Яккасарай",
+      "uz": "Yakkasaroy",
+      "uzc": "Яккасарой"
+    }
+  },
+  {
+    "id": 1708212,
+    "parentId": 1708,
+    "order": 4,
+    "latitude": 41.30783275,
+    "longitude": 69.2737901515736,
+    "name": {
+      "uz": "Sharof Rashidov tumani",
+      "uzc": "Шароф Рашидов тумани",
+      "ru": "Шароф Рашидовский район",
+      "en": "Sharof Rashidov",
+      "kaa": "Шароф Рашидов тумани"
+    },
+    "shortName": {
+      "en": "Rashidov",
+      "ru": "Ш. Рашидов",
+      "uz": "Sh. Rashidov",
+      "uzc": "Ш. Рашидов"
+    }
+  },
+  {
+    "id": 1730412,
+    "parentId": 1730,
+    "order": 4,
+    "latitude": 40.4694865,
+    "longitude": 71.719491,
+    "name": {
+      "uz": "Marg‘ilon shahri",
+      "uzc": "Марғилон шаҳри",
+      "ru": "Город Маргилан",
+      "en": "Marg‘ilon",
+      "kaa": "Марғилон шаҳри"
+    },
+    "shortName": {
+      "en": "Margilon",
+      "ru": "г. Маpгилан",
+      "uz": "Marg‘ilon sh.",
+      "uzc": "Марғилон ш."
+    }
+  },
+  {
+    "id": 1722201,
+    "parentId": 1722,
+    "order": 4,
+    "latitude": 38.2233257,
+    "longitude": 67.7069081,
+    "name": {
+      "uz": "Oltinsoy tumani",
+      "uzc": "Олтинсой тумани",
+      "ru": "Алтынсайский район",
+      "en": "Oltinsoy",
+      "kaa": "Олтинсой тумани"
+    },
+    "shortName": {
+      "en": "Oltinsoy",
+      "ru": "Алтынсай",
+      "uz": "Oltinsoy",
+      "uzc": "Олтинсой"
+    }
+  },
+  {
+    "id": 1710207,
+    "parentId": 1710,
+    "order": 4,
+    "latitude": 38.626758,
+    "longitude": 66.252558,
+    "name": {
+      "uz": "G‘uzor tumani",
+      "uzc": "Ғузор тумани",
+      "ru": "Гузарский район",
+      "en": "G‘uzor",
+      "kaa": "Ғузор тумани"
+    },
+    "shortName": {
+      "en": "Guzor",
+      "ru": "Гузар",
+      "uz": "G‘uzor",
+      "uzc": "Ғузор"
+    }
+  },
+  {
+    "id": 1727237,
+    "parentId": 1727,
+    "order": 4,
+    "latitude": 41.2017147,
+    "longitude": 69.1620098,
+    "name": {
+      "uz": "Zangiota tumani",
+      "uzc": "Зангиота тумани",
+      "ru": "Зангиатинский район",
+      "en": "Zangiota",
+      "kaa": "Зангиота тумани"
+    },
+    "shortName": {
+      "en": "Zangiota",
+      "ru": "Зангиата",
+      "uz": "Zangiota",
+      "uzc": "Зангиота"
+    }
+  },
+  {
+    "id": 1722204,
+    "parentId": 1722,
+    "order": 5,
+    "latitude": 38.2040894,
+    "longitude": 67.2033601,
+    "name": {
+      "uz": "Boysun tumani",
+      "uzc": "Бойсун тумани",
+      "ru": "Байсунский район",
+      "en": "Boysun",
+      "kaa": "Бойсун тумани"
+    },
+    "shortName": {
+      "en": "Boysun",
+      "ru": "Байсун",
+      "uz": "Boysun",
+      "uzc": "Бойсун"
+    }
+  },
+  {
+    "id": 1710212,
+    "parentId": 1710,
+    "order": 5,
+    "latitude": 38.347524,
+    "longitude": 66.494235,
+    "name": {
+      "uz": "Dehqonobod tumani",
+      "uzc": "Деҳқонобод тумани",
+      "ru": "Дехканабадский район",
+      "en": "Dehqonobod",
+      "kaa": "Деҳқонобод тумани"
+    },
+    "shortName": {
+      "en": "Dehqonobod",
+      "ru": "Дехканабад",
+      "uz": "Dehqonobod",
+      "uzc": "Дехқонобод"
+    }
+  },
+  {
+    "id": 1727239,
+    "parentId": 1727,
+    "order": 5,
+    "latitude": 41.25623395,
+    "longitude": 69.5269304815,
+    "name": {
+      "uz": "Yuqorichirchiq tumani",
+      "uzc": "Юқоричирчиқ тумани",
+      "ru": "Юкоричирчикский район",
+      "en": "Yuqorichirchiq",
+      "kaa": "Юқоричирчиқ тумани"
+    },
+    "shortName": {
+      "en": "Yuqorichirchiq",
+      "ru": "Юкоричирчик",
+      "uz": "Yuqorichirchiq",
+      "uzc": "Юқоричирчиқ"
+    }
+  },
+  {
+    "id": 1730401,
+    "parentId": 1730,
+    "order": 5,
+    "latitude": 40.389448,
+    "longitude": 71.783135,
+    "name": {
+      "uz": "Farg‘ona shahri",
+      "uzc": "Фарғона шаҳри",
+      "ru": "Город Фергана",
+      "en": "Farg‘ona",
+      "kaa": "Фарғона шаҳри"
+    },
+    "shortName": {
+      "en": "Fergana",
+      "ru": "г. Фергана",
+      "uz": "Farg‘ona sh.",
+      "uzc": "Фарғона ш."
+    }
+  },
+  {
+    "id": 1708215,
+    "parentId": 1708,
+    "order": 5,
+    "latitude": 41.2936401,
+    "longitude": 69.3222445,
+    "name": {
+      "uz": "Do‘stlik tumani",
+      "uzc": "Дўстлик тумани",
+      "ru": "Дустликский район",
+      "en": "Do‘stlik",
+      "kaa": "Дўстлик тумани"
+    },
+    "shortName": {
+      "en": "Dustlik",
+      "ru": "Дустлик",
+      "uz": "Do‘stlik",
+      "uzc": "Дўстлик"
+    }
+  },
+  {
+    "id": 1706207,
+    "parentId": 1706,
+    "order": 5,
+    "latitude": 39.7675529,
+    "longitude": 64.4231326,
+    "name": {
+      "uz": "Buxoro tumani",
+      "uzc": "Бухоро тумани",
+      "ru": "Бухарский район",
+      "en": "Buxoro",
+      "kaa": "Бухоро тумани"
+    },
+    "shortName": {
+      "en": "Buxoro",
+      "ru": "Бухара",
+      "uz": "Buxoro",
+      "uzc": "Бухоро"
+    }
+  },
+  {
+    "id": 1726277,
+    "parentId": 1726,
+    "order": 5,
+    "latitude": 41.317653,
+    "longitude": 69.230599,
+    "name": {
+      "uz": "Shayxontoxur tumani",
+      "uzc": "Шайхонтохур тумани",
+      "ru": "Шайхантахурский район",
+      "en": "Shayxontoxur",
+      "kaa": "Шайхонтохур тумани"
+    },
+    "shortName": {
+      "en": "Shayxontoxur",
+      "ru": "Шайхантахур",
+      "uz": "Shayxontoxur",
+      "uzc": "Шайхонтохур"
+    }
+  },
+  {
+    "id": 1724228,
+    "parentId": 1724,
+    "order": 5,
+    "latitude": 40.4726814,
+    "longitude": 68.6244383,
+    "name": {
+      "uz": "Mirzaobod tumani",
+      "uzc": "Мирзаобод тумани",
+      "ru": "Мирзаабадский район",
+      "en": "Mirzaobod",
+      "kaa": "Мирзаобод тумани"
+    },
+    "shortName": {
+      "en": "Mirzaobod",
+      "ru": "Мирзаабад",
+      "uz": "Mirzaobod",
+      "uzc": "Мирзаобод"
+    }
+  },
+  {
+    "id": 1712216,
+    "parentId": 1712,
+    "order": 5,
+    "latitude": 38.8075647,
+    "longitude": 66.5602887,
+    "name": {
+      "uz": "Qiziltepa tumani",
+      "uzc": "Қизилтепа тумани",
+      "ru": "Кызылтепинский район",
+      "en": "Qiziltepa",
+      "kaa": "Қизилтепа тумани"
+    },
+    "shortName": {
+      "en": "Qiziltepa",
+      "ru": "Кызылтепа",
+      "uz": "Qiziltepa",
+      "uzc": "Қизилтепа"
+    }
+  },
+  {
+    "id": 1703202,
+    "parentId": 1703,
+    "order": 6,
+    "latitude": 40.8011469,
+    "longitude": 72.1634159,
+    "name": {
+      "uz": "Oltinko‘l tumani",
+      "uzc": "Олтинкўл тумани",
+      "ru": "Алтынкульский район",
+      "en": "Oltinko‘l",
+      "kaa": "Олтинкўл тумани"
+    },
+    "shortName": {
+      "en": "Oltinkol",
+      "ru": "Алтынкуль",
+      "uz": "Oltinko‘l",
+      "uzc": "Олтинкўл"
+    }
+  },
+  {
+    "id": 1722207,
+    "parentId": 1722,
+    "order": 6,
+    "latitude": 37.4152184,
+    "longitude": 66.8545332,
+    "name": {
+      "uz": "Muzrabot tumani",
+      "uzc": "Музработ тумани",
+      "ru": "Музрабадский район",
+      "en": "Muzrabot",
+      "kaa": "Музработ тумани"
+    },
+    "shortName": {
+      "en": "Muzrabot",
+      "ru": "Музрабад",
+      "uz": "Muzrabot",
+      "uzc": "Музработ"
+    }
+  },
+  {
+    "id": 1706212,
+    "parentId": 1706,
+    "order": 6,
+    "latitude": 40.0211793,
+    "longitude": 64.5179242,
+    "name": {
+      "uz": "Vobkent tumani",
+      "uzc": "Вобкент тумани",
+      "ru": "Вабкентский район",
+      "en": "Vobkent",
+      "kaa": "Вобкент тумани"
+    },
+    "shortName": {
+      "en": "Bobkent",
+      "ru": "Вабкент",
+      "uz": "Vobkent",
+      "uzc": "Вобкент"
+    }
+  },
+  {
+    "id": 1727248,
+    "parentId": 1727,
+    "order": 6,
+    "latitude": 41.387348,
+    "longitude": 69.4644583,
+    "name": {
+      "uz": "Qibray tumani",
+      "uzc": "Қибрай тумани",
+      "ru": "Кибрайский район",
+      "en": "Qibray",
+      "kaa": "Қибрай тумани"
+    },
+    "shortName": {
+      "en": "Qibray",
+      "ru": "Кибрай",
+      "uz": "Qibray",
+      "uzc": "Қибрай"
+    }
+  },
+  {
+    "id": 1710220,
+    "parentId": 1710,
+    "order": 6,
+    "latitude": 38.8156469,
+    "longitude": 66.4665639,
+    "name": {
+      "uz": "Qamashi tumani",
+      "uzc": "Қамаши тумани",
+      "ru": "Камашинский район",
+      "en": "Qamashi",
+      "kaa": "Қамаши тумани"
+    },
+    "shortName": {
+      "en": "Qamashi",
+      "ru": "Камаши",
+      "uz": "Qamashi",
+      "uzc": "Қамаши"
+    }
+  },
+  {
+    "id": 1724216,
+    "parentId": 1724,
+    "order": 6,
+    "latitude": 40.6794452,
+    "longitude": 68.7871719,
+    "name": {
+      "uz": "Sayxunobod tumani",
+      "uzc": "Сайхунобод тумани",
+      "ru": "Сайхунабадский район",
+      "en": "Sayxunobod",
+      "kaa": "Сайхунобод тумани"
+    },
+    "shortName": {
+      "en": "Sayxunobod",
+      "ru": "Сайхунабад",
+      "uz": "Sayxunobod",
+      "uzc": "Сайхунобод"
+    }
+  },
+  {
+    "id": 1718406,
+    "parentId": 1718,
+    "order": 6,
+    "latitude": 39.9018122,
+    "longitude": 66.2684943,
+    "name": {
+      "uz": "Kattaqo‘rg‘on shahri",
+      "uzc": "Каттақўрғон шаҳри",
+      "ru": "Город Каттакурган",
+      "en": "Kattaqo‘rg‘on",
+      "kaa": "Каттақўрғон шаҳри"
+    },
+    "shortName": {
+      "en": "Kattaqurgan",
+      "ru": "г. Каттакурган",
+      "uz": "Kattaqo‘rg‘on sh.",
+      "uzc": "Каттақўрғон ш."
+    }
+  },
+  {
+    "id": 1730215,
+    "parentId": 1730,
+    "order": 6,
+    "latitude": 40.4379858,
+    "longitude": 70.6039542,
+    "name": {
+      "uz": "Beshariq tumani",
+      "uzc": "Бешариқ тумани",
+      "ru": "Бешарыкский район",
+      "en": "Beshariq",
+      "kaa": "Бешариқ тумани"
+    },
+    "shortName": {
+      "en": "Beshariq",
+      "ru": "Бешарык",
+      "uz": "Beshariq",
+      "uzc": "Бешариқ"
+    }
+  },
+  {
+    "id": 1708220,
+    "parentId": 1708,
+    "order": 6,
+    "latitude": 40.0896922,
+    "longitude": 68.1686983,
+    "name": {
+      "uz": "Zarbdor tumani",
+      "uzc": "Зарбдор тумани",
+      "ru": "Зарбдарский район",
+      "en": "Zarbdor",
+      "kaa": "Зарбдор тумани"
+    },
+    "shortName": {
+      "en": "Zarbdor",
+      "ru": "Зарбдар",
+      "uz": "Zarbdor",
+      "uzc": "Зарбдор"
+    }
+  },
+  {
+    "id": 1726294,
+    "parentId": 1726,
+    "order": 6,
+    "latitude": 41.2906149,
+    "longitude": 69.207554488,
+    "name": {
+      "uz": "Chilonzor tumani",
+      "uzc": "Чилонзор тумани",
+      "ru": "Чиланзарский район",
+      "en": "Chilonzor",
+      "kaa": "Чилонзор тумани"
+    },
+    "shortName": {
+      "en": "Chilonzor",
+      "ru": "Чиланзар",
+      "uz": "Chilonzor",
+      "uzc": "Чилонзор"
+    }
+  },
+  {
+    "id": 1706215,
+    "parentId": 1706,
+    "order": 7,
+    "latitude": 40.1029573,
+    "longitude": 64.6828621,
+    "name": {
+      "uz": "G‘ijduvon tumani",
+      "uzc": "Ғиждувон тумани",
+      "ru": "Гиждуванский район",
+      "en": "G‘ijduvon",
+      "kaa": "Ғиждувон тумани"
+    },
+    "shortName": {
+      "en": "Gijduvan",
+      "ru": "Гиждуван",
+      "uz": "G‘ijduvon",
+      "uzc": "Ғиждувон"
+    }
+  },
+  {
+    "id": 1714204,
+    "parentId": 1714,
+    "order": 7,
+    "latitude": 42.2576714,
+    "longitude": 62.8665366,
+    "name": {
+      "uz": "Mingbuloq tumani",
+      "uzc": "Мингбулоқ тумани",
+      "ru": "Мингбулакский pайон",
+      "en": "Mingbuloq",
+      "kaa": "Мингбулоқ тумани"
+    },
+    "shortName": {
+      "en": "Mingbuloq",
+      "ru": "Мингбулак",
+      "uz": "Mingbuloq",
+      "uzc": "Мингбулоқ"
+    }
+  },
+  {
+    "id": 1726283,
+    "parentId": 1726,
+    "order": 7,
+    "latitude": 41.23507,
+    "longitude": 69.247361,
+    "name": {
+      "uz": "Sirg‘ali tumani",
+      "uzc": "Сирғали тумани",
+      "ru": "Сергелийский район",
+      "en": "Sergili",
+      "kaa": "Сирғали тумани"
+    },
+    "shortName": {
+      "en": "Sergeli",
+      "ru": "Сергели",
+      "uz": "Sirg‘ali",
+      "uzc": "Сергели"
+    }
+  },
+  {
+    "id": 1722210,
+    "parentId": 1722,
+    "order": 7,
+    "latitude": 38.2753782,
+    "longitude": 67.8951071,
+    "name": {
+      "uz": "Denov tumani",
+      "uzc": "Денов тумани",
+      "ru": "Денауский район",
+      "en": "Denov",
+      "kaa": "Денов тумани"
+    },
+    "shortName": {
+      "en": "Denov",
+      "ru": "Денау",
+      "uz": "Denov",
+      "uzc": "Денов"
+    }
+  },
+  {
+    "id": 1710224,
+    "parentId": 1710,
+    "order": 7,
+    "latitude": 38.839824,
+    "longitude": 65.7927794,
+    "name": {
+      "uz": "Qarshi tumani",
+      "uzc": "Қарши тумани",
+      "ru": "Каршинский район",
+      "en": "Qarshi",
+      "kaa": "Қарши тумани"
+    },
+    "shortName": {
+      "en": "Qarshi",
+      "ru": "Карши",
+      "uz": "Qarshi",
+      "uzc": "Қарши"
+    }
+  },
+  {
+    "id": 1724231,
+    "parentId": 1724,
+    "order": 7,
+    "latitude": 40.98775275,
+    "longitude": 68.673086435,
+    "name": {
+      "uz": "Sirdaryo tumani",
+      "uzc": "Сирдарё тумани",
+      "ru": "Сырдарьинский район",
+      "en": "Sirdaryo",
+      "kaa": "Сирдарё тумани"
+    },
+    "shortName": {
+      "en": "Sirdaryo",
+      "ru": "Сырдарья",
+      "uz": "Sirdaryo",
+      "uzc": "Сирдарё"
+    }
+  },
+  {
+    "id": 1712244,
+    "parentId": 1712,
+    "order": 7,
+    "latitude": 41.7646679,
+    "longitude": 64.6458765,
+    "name": {
+      "uz": "Tomdi tumani",
+      "uzc": "Томди тумани",
+      "ru": "Тамдынский район",
+      "en": "Tomdi",
+      "kaa": "Томди тумани"
+    },
+    "shortName": {
+      "en": "Tomdi",
+      "ru": "Тамды",
+      "uz": "Tomdi",
+      "uzc": "Томди"
+    }
+  },
+  {
+    "id": 1727206,
+    "parentId": 1727,
+    "order": 7,
+    "latitude": 40.8785346,
+    "longitude": 69.0443667,
+    "name": {
+      "uz": "Oqqo‘rg‘on tumani",
+      "uzc": "Оққўрғон тумани",
+      "ru": "Аккурганский район",
+      "en": "Oqqo‘rg‘on",
+      "kaa": "Оққўрғон тумани"
+    },
+    "shortName": {
+      "en": "Oqqurgon",
+      "ru": "Аккурган",
+      "uz": "Oqqo‘rg‘on",
+      "uzc": "Оққўрғон"
+    }
+  },
+  {
+    "id": 1708218,
+    "parentId": 1708,
+    "order": 7,
+    "latitude": 39.9619506,
+    "longitude": 68.3969972,
+    "name": {
+      "uz": "Zomin tumani",
+      "uzc": "Зомин тумани",
+      "ru": "Зааминский район",
+      "en": "Zomin",
+      "kaa": "Зомин тумани"
+    },
+    "shortName": {
+      "en": "Zomin",
+      "ru": "Замин",
+      "uz": "Zomin",
+      "uzc": "Зомин"
+    }
+  },
+  {
+    "id": 1730209,
+    "parentId": 1730,
+    "order": 7,
+    "latitude": 40.4809296,
+    "longitude": 71.2581029,
+    "name": {
+      "uz": "Bog‘dod tumani",
+      "uzc": "Боғдод тумани",
+      "ru": "Багдадский район",
+      "en": "Bog‘dod",
+      "kaa": "Боғдод тумани"
+    },
+    "shortName": {
+      "en": "Bagdad",
+      "ru": "Багдад",
+      "uz": "Bog‘dod",
+      "uzc": "Бағдод"
+    }
+  },
+  {
+    "id": 1703203,
+    "parentId": 1703,
+    "order": 7,
+    "latitude": 40.7833471,
+    "longitude": 72.3506746,
+    "name": {
+      "uz": "Andijon tumani",
+      "uzc": "Андижон тумани",
+      "ru": "Андижанский район",
+      "en": "Andijon",
+      "kaa": "Андижон тумани"
+    },
+    "shortName": {
+      "en": "Andijan",
+      "ru": "Андижан",
+      "uz": "Andijon",
+      "uzc": "Андижон"
+    }
+  },
+  {
+    "id": 1718203,
+    "parentId": 1718,
+    "order": 8,
+    "latitude": 39.52386980088908,
+    "longitude": 66.88792150759679,
+    "name": {
+      "uz": "Oqdaryo tumani",
+      "uzc": "Оқдарё тумани",
+      "ru": "Акдарьинский район",
+      "en": "Oqdaryo",
+      "kaa": "Оқдарё тумани"
+    },
+    "shortName": {
+      "en": "Oqdaryo",
+      "ru": "Акдарья",
+      "uz": "Oqdaryo",
+      "uzc": "Оқдарё"
+    }
+  },
+  {
+    "id": 1706246,
+    "parentId": 1706,
+    "order": 8,
+    "latitude": 39.740839,
+    "longitude": 64.1818037,
+    "name": {
+      "uz": "Jondor tumani",
+      "uzc": "Жондор тумани",
+      "ru": "Жондоpский район",
+      "en": "Jondor",
+      "kaa": "Жондор тумани"
+    },
+    "shortName": {
+      "en": "Jondor",
+      "ru": "Жондоp",
+      "uz": "Jondor",
+      "uzc": "Жондор"
+    }
+  },
+  {
+    "id": 1703206,
+    "parentId": 1703,
+    "order": 8,
+    "latitude": 40.9002001,
+    "longitude": 71.8413903,
+    "name": {
+      "uz": "Baliqchi tumani",
+      "uzc": "Балиқчи тумани",
+      "ru": "Балыкчинский район",
+      "en": "Baliqchi",
+      "kaa": "Балиқчи тумани"
+    },
+    "shortName": {
+      "en": "Baliqchi",
+      "ru": "Балыкчи",
+      "uz": "Baliqchi",
+      "uzc": "Балиқчи"
+    }
+  },
+  {
+    "id": 1710229,
+    "parentId": 1710,
+    "order": 8,
+    "latitude": 39.0406833,
+    "longitude": 65.5858969,
+    "name": {
+      "uz": "Koson tumani",
+      "uzc": "Косон тумани",
+      "ru": "Касанский район",
+      "en": "Koson",
+      "kaa": "Косон тумани"
+    },
+    "shortName": {
+      "en": "Koson",
+      "ru": "Касан",
+      "uz": "Koson",
+      "uzc": "Косон"
+    }
+  },
+  {
+    "id": 1714207,
+    "parentId": 1714,
+    "order": 8,
+    "latitude": 41.2528658,
+    "longitude": 71.5446327,
+    "name": {
+      "uz": "Kosonsoy tumani",
+      "uzc": "Косонсой тумани",
+      "ru": "Касансайский район",
+      "en": "Kosonsoy",
+      "kaa": "Косонсой тумани"
+    },
+    "shortName": {
+      "en": "Kosonsoy",
+      "ru": "Касансай",
+      "uz": "Kosonsoy",
+      "uzc": "Косонсой"
+    }
+  },
+  {
+    "id": 1722212,
+    "parentId": 1722,
+    "order": 8,
+    "latitude": 37.5091604,
+    "longitude": 67.4206492,
+    "name": {
+      "uz": "Jarqo‘rg‘on tumani",
+      "uzc": "Жарқўрғон тумани",
+      "ru": "Джаркурганский район",
+      "en": "Jarqo‘rg‘on",
+      "kaa": "Жарқўрғон тумани"
+    },
+    "shortName": {
+      "en": "Jarqurgan",
+      "ru": "Джаркурган",
+      "uz": "Jarqo‘rg‘on",
+      "uzc": "Жарқўрғон"
+    }
+  },
+  {
+    "id": 1712230,
+    "parentId": 1712,
+    "order": 8,
+    "latitude": 40.999503,
+    "longitude": 71.593887247,
+    "name": {
+      "uz": "Navbahor tumani",
+      "uzc": "Навбаҳор тумани",
+      "ru": "Навбахорский район",
+      "en": "Navbahor",
+      "kaa": "Навбаҳор тумани"
+    },
+    "shortName": {
+      "en": "Navbohor",
+      "ru": "Навбахор",
+      "uz": "Navbahor",
+      "uzc": "Навбаҳор"
+    }
+  },
+  {
+    "id": 1735204,
+    "parentId": 1735,
+    "order": 8,
+    "latitude": 39.6513843,
+    "longitude": 62.8808927,
+    "name": {
+      "uz": "Amudaryo tumani",
+      "uzc": "Амударё тумани",
+      "ru": "Амударьинский район",
+      "en": "Amudaryo",
+      "kaa": "Амударё тумани"
+    },
+    "shortName": {
+      "en": "Amudarya",
+      "ru": "Амударья",
+      "uz": "Amudaryo",
+      "uzc": "Амударё"
+    }
+  },
+  {
+    "id": 1727212,
+    "parentId": 1727,
+    "order": 8,
+    "latitude": 40.905354,
+    "longitude": 69.6400706,
+    "name": {
+      "uz": "Ohangaron tumani",
+      "uzc": "Оҳангарон тумани",
+      "ru": "Ахангаранский район",
+      "en": "Ohangaron",
+      "kaa": "Оҳангарон тумани"
+    },
+    "shortName": {
+      "en": "Ohangaron",
+      "ru": "Ахангаран",
+      "uz": "Ohangaron",
+      "uzc": "Охангарон"
+    }
+  },
+  {
+    "id": 1724235,
+    "parentId": 1724,
+    "order": 8,
+    "latitude": 40.2144088,
+    "longitude": 68.8387121,
+    "name": {
+      "uz": "Xovos tumani",
+      "uzc": "Ховос тумани",
+      "ru": "Хавасский район",
+      "en": "Xovos",
+      "kaa": "Ховос тумани"
+    },
+    "shortName": {
+      "en": "Xovos",
+      "ru": "Хаваст",
+      "uz": "Xovos",
+      "uzc": "Ховос"
+    }
+  },
+  {
+    "id": 1730212,
+    "parentId": 1730,
+    "order": 8,
+    "latitude": 40.6384999,
+    "longitude": 71.0850062,
+    "name": {
+      "uz": "Buvayda tumani",
+      "uzc": "Бувайда тумани",
+      "ru": "Бувайдинский район",
+      "en": "Buvayda",
+      "kaa": "Бувайда тумани"
+    },
+    "shortName": {
+      "en": "Buvayda",
+      "ru": "Бувайда",
+      "uz": "Buvayda",
+      "uzc": "Бувайда"
+    }
+  },
+  {
+    "id": 1708225,
+    "parentId": 1708,
+    "order": 8,
+    "latitude": 40.5307586,
+    "longitude": 65.0185596,
+    "name": {
+      "uz": "Zafarobod tumani",
+      "uzc": "Зафаробод тумани",
+      "ru": "Зафарабадский район",
+      "en": "Zafarobod",
+      "kaa": "Зафаробод тумани"
+    },
+    "shortName": {
+      "en": "Zafarobod",
+      "ru": "Зафарабад",
+      "uz": "Zafarobod",
+      "uzc": "Зафаробод"
+    }
+  },
+  {
+    "id": 1726290,
+    "parentId": 1726,
+    "order": 8,
+    "latitude": 41.283463,
+    "longitude": 69.339798,
+    "name": {
+      "uz": "Yashnobod tumani",
+      "uzc": "Яшнобод тумани",
+      "ru": "Яшнободский район",
+      "en": "Yashnobod",
+      "kaa": "Яшнобод тумани"
+    },
+    "shortName": {
+      "en": "Yashnobod",
+      "ru": "Яшнабад",
+      "uz": "Yashnobod",
+      "uzc": "Яшнобод"
+    }
+  },
+  {
+    "id": 1722214,
+    "parentId": 1722,
+    "order": 9,
+    "latitude": 37.7965801,
+    "longitude": 67.59948508,
+    "name": {
+      "uz": "Qumqo‘rg‘on tumani",
+      "uzc": "Қумқўрғон тумани",
+      "ru": "Кумкурганский район",
+      "en": "Qumqo‘rg‘on",
+      "kaa": "Қумқўрғон тумани"
+    },
+    "shortName": {
+      "en": "Qumqurgon",
+      "ru": "Кумкурган",
+      "uz": "Qumqo‘rg‘on",
+      "uzc": "Қумқўрғон"
+    }
+  },
+  {
+    "id": 1726280,
+    "parentId": 1726,
+    "order": 9,
+    "latitude": 41.3349945,
+    "longitude": 69.219724,
+    "name": {
+      "uz": "Olmazor tumani",
+      "uzc": "Олмазор тумани",
+      "ru": "Алмазарский район",
+      "en": "Olmazor",
+      "kaa": "Олмазор тумани"
+    },
+    "shortName": {
+      "en": "Olmazor",
+      "ru": "Алмазар",
+      "uz": "Olmazor",
+      "uzc": "Олмазор"
+    }
+  },
+  {
+    "id": 1706219,
+    "parentId": 1706,
+    "order": 9,
+    "latitude": 39.7244996,
+    "longitude": 64.5451844,
+    "name": {
+      "uz": "Kogon tumani",
+      "uzc": "Когон тумани",
+      "ru": "Каганский район",
+      "en": "Kogon",
+      "kaa": "Когон тумани"
+    },
+    "shortName": {
+      "en": "Kogon",
+      "ru": "Каган",
+      "uz": "Kogon",
+      "uzc": "Когон"
+    }
+  },
+  {
+    "id": 1724226,
+    "parentId": 1724,
+    "order": 9,
+    "latitude": 40.5433684,
+    "longitude": 68.4110959,
+    "name": {
+      "uz": "Sardoba tumani",
+      "uzc": "Сардоба тумани",
+      "ru": "Сардобский район",
+      "en": "Sardoba",
+      "kaa": "Сардоба тумани"
+    },
+    "shortName": {
+      "en": "Sardoba",
+      "ru": "Сардоба",
+      "uz": "Sardoba",
+      "uzc": "Сардоба"
+    }
+  },
+  {
+    "id": 1708223,
+    "parentId": 1708,
+    "order": 9,
+    "latitude": 39.9920949,
+    "longitude": 66.8162238,
+    "name": {
+      "uz": "Mirzacho‘l tumani",
+      "uzc": "Мирзачўл тумани",
+      "ru": "Мирзачульский район",
+      "en": "Mirzacho‘l",
+      "kaa": "Мирзачўл тумани"
+    },
+    "shortName": {
+      "en": "Mirzalchul",
+      "ru": "Мирзачуль",
+      "uz": "Mirzacho‘l",
+      "uzc": "Мирзачўл"
+    }
+  },
+  {
+    "id": 1703209,
+    "parentId": 1703,
+    "order": 9,
+    "latitude": 40.0647473,
+    "longitude": 64.8114435,
+    "name": {
+      "uz": "Bo‘ston tumani",
+      "uzc": "Бўстон тумани",
+      "ru": "Бустонский район",
+      "en": "Bo‘ston",
+      "kaa": "Бўстон тумани"
+    },
+    "shortName": {
+      "en": "Buston",
+      "ru": "Бустон",
+      "uz": "Bo‘ston",
+      "uzc": "Бўстон"
+    }
+  },
+  {
+    "id": 1727249,
+    "parentId": 1727,
+    "order": 9,
+    "latitude": 41.2922593,
+    "longitude": 69.6690304,
+    "name": {
+      "uz": "Parkent tumani",
+      "uzc": "Паркент тумани",
+      "ru": "Паркентский район",
+      "en": "Parkent",
+      "kaa": "Паркент тумани"
+    },
+    "shortName": {
+      "en": "Parkent",
+      "ru": "Паркент",
+      "uz": "Parkent",
+      "uzc": "Паркент"
+    }
+  },
+  {
+    "id": 1735207,
+    "parentId": 1735,
+    "order": 9,
+    "latitude": 41.6944863,
+    "longitude": 60.7496642,
+    "name": {
+      "uz": "Beruniy tumani",
+      "uzc": "Беруний тумани",
+      "ru": "Берунийский район",
+      "en": "Beruniy",
+      "kaa": "Беруний тумани"
+    },
+    "shortName": {
+      "en": "Beruniy",
+      "ru": "Беруний",
+      "uz": "Beruniy",
+      "uzc": "Беруний"
+    }
+  },
+  {
+    "id": 1714212,
+    "parentId": 1714,
+    "order": 9,
+    "latitude": 40.9996482,
+    "longitude": 71.6726238,
+    "name": {
+      "uz": "Namangan tumani",
+      "uzc": "Наманган тумани",
+      "ru": "Наманганский район",
+      "en": "Namangan",
+      "kaa": "Наманган тумани"
+    },
+    "shortName": {
+      "en": "Namangan",
+      "ru": "Наманган",
+      "uz": "Namangan",
+      "uzc": "Наманган"
+    }
+  },
+  {
+    "id": 1710232,
+    "parentId": 1710,
+    "order": 9,
+    "latitude": 39.1179598,
+    "longitude": 66.8736273,
+    "name": {
+      "uz": "Kitob tumani",
+      "uzc": "Китоб тумани",
+      "ru": "Китабский район",
+      "en": "Kitob",
+      "kaa": "Китоб тумани"
+    },
+    "shortName": {
+      "en": "Kitob",
+      "ru": "Китаб",
+      "uz": "Kitob",
+      "uzc": "Китоб"
+    }
+  },
+  {
+    "id": 1712251,
+    "parentId": 1712,
+    "order": 9,
+    "latitude": 39.9164764,
+    "longitude": 66.0532137,
+    "name": {
+      "uz": "Xatirchi tumani",
+      "uzc": "Хатирчи тумани",
+      "ru": "Хатырчинский район",
+      "en": "Xatirchi",
+      "kaa": "Хатирчи тумани"
+    },
+    "shortName": {
+      "en": "Xatirchi",
+      "ru": "Хатырчи",
+      "uz": "Xatirchi",
+      "uzc": "Хатирчи"
+    }
+  },
+  {
+    "id": 1718206,
+    "parentId": 1718,
+    "order": 9,
+    "latitude": 39.711916,
+    "longitude": 67.326979,
+    "name": {
+      "uz": "Bulung‘ur tumani",
+      "uzc": "Булунғур тумани",
+      "ru": "Булунгурский район",
+      "en": "Bulung‘ur",
+      "kaa": "Булунғур тумани"
+    },
+    "shortName": {
+      "en": "Bulungur",
+      "ru": "Булунгур",
+      "uz": "Bulung‘ur",
+      "uzc": "Булунғур"
+    }
+  },
+  {
+    "id": 1730236,
+    "parentId": 1730,
+    "order": 9,
+    "latitude": 40.578097,
+    "longitude": 70.9212374,
+    "name": {
+      "uz": "Dang‘ara tumani",
+      "uzc": "Данғара тумани",
+      "ru": "Дангаринский район",
+      "en": "Dang‘ara",
+      "kaa": "Данғара тумани"
+    },
+    "shortName": {
+      "en": "Dangara",
+      "ru": "Дангара",
+      "uz": "Dang‘ara",
+      "uzc": "Данғара"
+    }
+  },
+  {
+    "id": 1722215,
+    "parentId": 1722,
+    "order": 10,
+    "latitude": 37.7020285,
+    "longitude": 67.2636755,
+    "name": {
+      "uz": "Qiziriq tumani",
+      "uzc": "Қизириқ тумани",
+      "ru": "Кизирикский район",
+      "en": "Qiziriq",
+      "kaa": "Қизириқ тумани"
+    },
+    "shortName": {
+      "en": "Qiziriq",
+      "ru": "Кизирик",
+      "uz": "Qiziriq",
+      "uzc": "Қизириқ"
+    }
+  },
+  {
+    "id": 1724401,
+    "parentId": 1724,
+    "order": 10,
+    "latitude": 40.52209905,
+    "longitude": 68.780320019,
+    "name": {
+      "uz": "Guliston shahri",
+      "uzc": "Гулистон шаҳри",
+      "ru": "Город Гулистан",
+      "en": "Guliston",
+      "kaa": "Гулистон шаҳри"
+    },
+    "shortName": {
+      "en": "Guliston",
+      "ru": "г. Гулистан",
+      "uz": "Guliston sh.",
+      "uzc": "Гулистон ш."
+    }
+  },
+  {
+    "id": 1712238,
+    "parentId": 1712,
+    "order": 10,
+    "latitude": 40.5627799,
+    "longitude": 65.6903621,
+    "name": {
+      "uz": "Nurota tumani",
+      "uzc": "Нурота тумани",
+      "ru": "Нуратинский район",
+      "en": "Nurota",
+      "kaa": "Нурота тумани"
+    },
+    "shortName": {
+      "en": "Nurota",
+      "ru": "Нурата",
+      "uz": "Nurota",
+      "uzc": "Нурота"
+    }
+  },
+  {
+    "id": 1735209,
+    "parentId": 1735,
+    "order": 10,
+    "latitude": 42.996074,
+    "longitude": 59.34965,
+    "name": {
+      "uz": "Bo‘zatov tumani",
+      "uzc": "Бўзатов тумани",
+      "ru": "Бозатауский район",
+      "en": "Bo‘zatov",
+      "kaa": "Бўзатов тумани"
+    },
+    "shortName": {
+      "en": "Buzkatov",
+      "ru": "Бозатау",
+      "uz": "Bo‘zatov",
+      "uzc": "Бозатов"
+    }
+  },
+  {
+    "id": 1708228,
+    "parentId": 1708,
+    "order": 10,
+    "latitude": 41.3177914,
+    "longitude": 69.2550882,
+    "name": {
+      "uz": "Paxtakor tumani",
+      "uzc": "Пахтакор тумани",
+      "ru": "Пахтакорский район",
+      "en": "Paxtakor",
+      "kaa": "Пахтакор тумани"
+    },
+    "shortName": {
+      "en": "Paxtokor",
+      "ru": "Пахтакор",
+      "uz": "Paxtakor",
+      "uzc": "Пахтакор"
+    }
+  },
+  {
+    "id": 1726262,
+    "parentId": 1726,
+    "order": 10,
+    "latitude": 41.2946299,
+    "longitude": 69.1776433,
+    "name": {
+      "uz": "Uchtepa tumani",
+      "uzc": "Учтепа тумани",
+      "ru": "Учтепинский район",
+      "en": "Uchtepa",
+      "kaa": "Учтепа тумани"
+    },
+    "shortName": {
+      "en": "Uchtepa",
+      "ru": "Учтепа",
+      "uz": "Uchtepa",
+      "uzc": "Учтепа"
+    }
+  },
+  {
+    "id": 1727250,
+    "parentId": 1727,
+    "order": 10,
+    "latitude": 40.8950973,
+    "longitude": 69.3417093,
+    "name": {
+      "uz": "Pskent tumani",
+      "uzc": "Пскент тумани",
+      "ru": "Пскентский район",
+      "en": "Pskent",
+      "kaa": "Пскент тумани"
+    },
+    "shortName": {
+      "en": "Pskent",
+      "ru": "Пскент",
+      "uz": "Pskent",
+      "uzc": "Пскент"
+    }
+  },
+  {
+    "id": 1730242,
+    "parentId": 1730,
+    "order": 10,
+    "latitude": 40.6621702,
+    "longitude": 71.7305649,
+    "name": {
+      "uz": "Yozyovon tumani",
+      "uzc": "Ёзёвон тумани",
+      "ru": "Язъяванский район",
+      "en": "Yozyovon",
+      "kaa": "Ёзёвон тумани"
+    },
+    "shortName": {
+      "en": "Yuzkyavon",
+      "ru": "Язъяван",
+      "uz": "Yuzkyovon",
+      "uzc": "Ёзёвон"
+    }
+  },
+  {
+    "id": 1710234,
+    "parentId": 1710,
+    "order": 10,
+    "latitude": 39.2615453,
+    "longitude": 65.1580462,
+    "name": {
+      "uz": "Muborak tumani",
+      "uzc": "Муборак тумани",
+      "ru": "Мубарекский район",
+      "en": "Muborak",
+      "kaa": "Муборак тумани"
+    },
+    "shortName": {
+      "en": "Muborak",
+      "ru": "Мубарек",
+      "uz": "Muborak",
+      "uzc": "Муборак"
+    }
+  },
+  {
+    "id": 1714216,
+    "parentId": 1714,
+    "order": 10,
+    "latitude": 40.934316,
+    "longitude": 72.013768,
+    "name": {
+      "uz": "Norin tumani",
+      "uzc": "Норин тумани",
+      "ru": "Нарынский район",
+      "en": "Norin",
+      "kaa": "Норин тумани"
+    },
+    "shortName": {
+      "en": "Norin",
+      "ru": "Нарын",
+      "uz": "Norin",
+      "uzc": "Норин"
+    }
+  },
+  {
+    "id": 1703210,
+    "parentId": 1703,
+    "order": 10,
+    "latitude": 40.6291119,
+    "longitude": 72.50152,
+    "name": {
+      "uz": "Buloqboshi tumani",
+      "uzc": "Булоқбоши тумани",
+      "ru": "Булакбашинский район",
+      "en": "Buloqboshi",
+      "kaa": "Булоқбоши тумани"
+    },
+    "shortName": {
+      "en": "Buloqboshi",
+      "ru": "Булакбаши",
+      "uz": "Buloqboshi",
+      "uzc": "Булоқбоши"
+    }
+  },
+  {
+    "id": 1706230,
+    "parentId": 1706,
+    "order": 10,
+    "latitude": 39.5186832,
+    "longitude": 63.8424719,
+    "name": {
+      "uz": "Qorako‘l tumani",
+      "uzc": "Қоракўл тумани",
+      "ru": "Каракульский район",
+      "en": "Qorako‘l",
+      "kaa": "Қоракўл тумани"
+    },
+    "shortName": {
+      "en": "Qorakul",
+      "ru": "Каракуль",
+      "uz": "Qorako‘l",
+      "uzc": "Қоракўл"
+    }
+  },
+  {
+    "id": 1726264,
+    "parentId": 1726,
+    "order": 11,
+    "latitude": 41.223643,
+    "longitude": 69.334327,
+    "name": {
+      "uz": "Bektemir tumani",
+      "uzc": "Бектемир тумани",
+      "ru": "Бектемирский район",
+      "en": "Bektemir",
+      "kaa": "Бектемир тумани"
+    },
+    "shortName": {
+      "en": "Bektemir",
+      "ru": "Бектемир",
+      "uz": "Bektemir",
+      "uzc": "Бектемир"
+    }
+  },
+  {
+    "id": 1708235,
+    "parentId": 1708,
+    "order": 11,
+    "latitude": 40.4593378,
+    "longitude": 67.2225792,
+    "name": {
+      "uz": "Forish tumani",
+      "uzc": "Фориш тумани",
+      "ru": "Фаришский район",
+      "en": "Forish",
+      "kaa": "Фориш тумани"
+    },
+    "shortName": {
+      "en": "Forish",
+      "ru": "Фариш",
+      "uz": "Forish",
+      "uzc": "Фориш"
+    }
+  },
+  {
+    "id": 1703211,
+    "parentId": 1703,
+    "order": 11,
+    "latitude": 40.7180763,
+    "longitude": 72.6412196,
+    "name": {
+      "uz": "Jalaquduq tumani",
+      "uzc": "Жалақудуқ тумани",
+      "ru": "Жалакудукский район",
+      "en": "Jalaquduq",
+      "kaa": "Жалақудуқ тумани"
+    },
+    "shortName": {
+      "en": "Jalaquduq",
+      "ru": "Джалалкудук",
+      "uz": "Jalaquduq",
+      "uzc": "Жалақудуқ"
+    }
+  },
+  {
+    "id": 1712234,
+    "parentId": 1712,
+    "order": 11,
+    "latitude": 40.1410626,
+    "longitude": 65.3608473,
+    "name": {
+      "uz": "Karmana tumani",
+      "uzc": "Кармана тумани",
+      "ru": "Карманинский район",
+      "en": "Karmana",
+      "kaa": "Кармана тумани"
+    },
+    "shortName": {
+      "en": "Karmana",
+      "ru": "Кармана",
+      "uz": "Karmana",
+      "uzc": "Кармана"
+    }
+  },
+  {
+    "id": 1714219,
+    "parentId": 1714,
+    "order": 11,
+    "latitude": 40.8743693,
+    "longitude": 71.0970171,
+    "name": {
+      "uz": "Pop tumani",
+      "uzc": "Поп тумани",
+      "ru": "Папский район",
+      "en": "Pop",
+      "kaa": "Поп тумани"
+    },
+    "shortName": {
+      "en": "Pop",
+      "ru": "Пап",
+      "uz": "Pop",
+      "uzc": "Поп"
+    }
+  },
+  {
+    "id": 1710235,
+    "parentId": 1710,
+    "order": 11,
+    "latitude": 38.6211357,
+    "longitude": 65.6895002,
+    "name": {
+      "uz": "Nishon tumani",
+      "uzc": "Нишон тумани",
+      "ru": "Нишанский район",
+      "en": "Nishon",
+      "kaa": "Нишон тумани"
+    },
+    "shortName": {
+      "en": "Nishon",
+      "ru": "Нишан",
+      "uz": "Nishon",
+      "uzc": "Нишон"
+    }
+  },
+  {
+    "id": 1735212,
+    "parentId": 1735,
+    "order": 11,
+    "latitude": 42.7746507,
+    "longitude": 59.6115544,
+    "name": {
+      "uz": "Kegeyli tumani",
+      "uzc": "Кегейли тумани",
+      "ru": "Кегейлийский район",
+      "en": "Kegeyli",
+      "kaa": "Кегейли тумани"
+    },
+    "shortName": {
+      "en": "Kegeyli",
+      "ru": "Кегейли",
+      "uz": "Kegeyli",
+      "uzc": "Кегейли"
+    }
+  },
+  {
+    "id": 1718209,
+    "parentId": 1718,
+    "order": 11,
+    "latitude": 39.6945962,
+    "longitude": 67.1011954,
+    "name": {
+      "uz": "Jomboy tumani",
+      "uzc": "Жомбой тумани",
+      "ru": "Джамбайский район",
+      "en": "Jomboy",
+      "kaa": "Жомбой тумани"
+    },
+    "shortName": {
+      "en": "Jomboy",
+      "ru": "Джамбай",
+      "uz": "Jomboy",
+      "uzc": "Жомбой"
+    }
+  },
+  {
+    "id": 1730218,
+    "parentId": 1730,
+    "order": 11,
+    "latitude": 40.5251446,
+    "longitude": 72.0712804,
+    "name": {
+      "uz": "Quva tumani",
+      "uzc": "Қува тумани",
+      "ru": "Кувинский район",
+      "en": "Quva",
+      "kaa": "Қува тумани"
+    },
+    "shortName": {
+      "en": "Quva",
+      "ru": "Кува",
+      "uz": "Quva",
+      "uzc": "Қува"
+    }
+  },
+  {
+    "id": 1727265,
+    "parentId": 1727,
+    "order": 11,
+    "latitude": 41.2932886,
+    "longitude": 69.2877212,
+    "name": {
+      "uz": "Toshkent tumani",
+      "uzc": "Тошкент тумани",
+      "ru": "Ташкентский район",
+      "en": "Toshkent",
+      "kaa": "Тошкент тумани"
+    },
+    "shortName": {
+      "en": "Toshkent",
+      "ru": "Ташкент",
+      "uz": "Toshkent",
+      "uzc": "Тошкент"
+    }
+  },
+  {
+    "id": 1706240,
+    "parentId": 1706,
+    "order": 11,
+    "latitude": 40.0210582,
+    "longitude": 64.3290496,
+    "name": {
+      "uz": "Peshku tumani",
+      "uzc": "Пешку тумани",
+      "ru": "Пешкунский район",
+      "en": "Peshku",
+      "kaa": "Пешку тумани"
+    },
+    "shortName": {
+      "en": "Peshku",
+      "ru": "Пешку",
+      "uz": "Peshku",
+      "uzc": "Пешку"
+    }
+  },
+  {
+    "id": 1722217,
+    "parentId": 1722,
+    "order": 11,
+    "latitude": 38.4130542,
+    "longitude": 67.9569409,
+    "name": {
+      "uz": "Sariosiyo tumani",
+      "uzc": "Сариосиё тумани",
+      "ru": "Сариасийский район",
+      "en": "Sariosiyo",
+      "kaa": "Сариосиё тумани"
+    },
+    "shortName": {
+      "en": "Sariosiyo",
+      "ru": "Сариасиё",
+      "uz": "Sariosiyo",
+      "uzc": "Сариосиё"
+    }
+  },
+  {
+    "id": 1708401,
+    "parentId": 1708,
+    "order": 12,
+    "latitude": 40.1331797,
+    "longitude": 67.8234081,
+    "name": {
+      "uz": "Jizzax shahri",
+      "uzc": "Жиззах шаҳри",
+      "ru": "Город Джизак",
+      "en": "Jizzax",
+      "kaa": "Жиззах шаҳри"
+    },
+    "shortName": {
+      "en": "Jizzax",
+      "ru": "г. Джизак",
+      "uz": "Jizzax sh.",
+      "uzc": "Жиззах ш."
+    }
+  },
+  {
+    "id": 1727253,
+    "parentId": 1727,
+    "order": 12,
+    "latitude": 41.083655,
+    "longitude": 69.3291366,
+    "name": {
+      "uz": "O‘rtachirchiq tumani",
+      "uzc": "Ўртачирчиқ тумани",
+      "ru": "Уртачирчикский район",
+      "en": "O‘rtachirchiq",
+      "kaa": "Ўртачирчиқ тумани"
+    },
+    "shortName": {
+      "en": "Ortachirchiq",
+      "ru": "Уртачирчик",
+      "uz": "O‘rtachirchiq",
+      "uzc": "Ўртачирчиқ"
+    }
+  },
+  {
+    "id": 1730203,
+    "parentId": 1730,
+    "order": 12,
+    "latitude": 40.3916043,
+    "longitude": 71.4754118,
+    "name": {
+      "uz": "Oltiariq tumani",
+      "uzc": "Олтиариқ тумани",
+      "ru": "Алтыарыкский район",
+      "en": "Oltiariq",
+      "kaa": "Олтиариқ тумани"
+    },
+    "shortName": {
+      "en": "Oltiariq",
+      "ru": "Алтыарык",
+      "uz": "Oltiariq",
+      "uzc": "Олтиариқ"
+    }
+  },
+  {
+    "id": 1726292,
+    "parentId": 1726,
+    "order": 12,
+    "latitude": 41.190923,
+    "longitude": 69.23006,
+    "name": {
+      "uz": "Yangihayot tumani",
+      "uzc": "Янгиҳаёт тумани",
+      "ru": "Янгихаётский район",
+      "en": "Yangihayot",
+      "kaa": "Янгиҳаёт тумани"
+    },
+    "shortName": {
+      "en": "Yangihayot",
+      "ru": "Янгихаёт",
+      "uz": "Yangihayot",
+      "uzc": "Янгихаёт  "
+    }
+  },
+  {
+    "id": 1735215,
+    "parentId": 1735,
+    "order": 12,
+    "latitude": 39.7817446,
+    "longitude": 64.5244132,
+    "name": {
+      "uz": "Qo‘ng‘irot tumani",
+      "uzc": "Қўнғирот тумани",
+      "ru": "Кунградский район",
+      "en": "Qo‘ng‘irot",
+      "kaa": "Қўнғирот тумани"
+    },
+    "shortName": {
+      "en": "Kungrad",
+      "ru": "Кунград",
+      "uz": "Qo‘ng‘irot",
+      "uzc": "Қўнғирот"
+    }
+  },
+  {
+    "id": 1703214,
+    "parentId": 1703,
+    "order": 12,
+    "latitude": 41.0386936,
+    "longitude": 72.3475812,
+    "name": {
+      "uz": "Izboskan tumani",
+      "uzc": "Избоскан тумани",
+      "ru": "Избасканский район",
+      "en": "Izboskan",
+      "kaa": "Избоскан тумани"
+    },
+    "shortName": {
+      "en": "Izboskan",
+      "ru": "Избаскан",
+      "uz": "Izboskan",
+      "uzc": "Избоскан"
+    }
+  },
+  {
+    "id": 1710237,
+    "parentId": 1710,
+    "order": 12,
+    "latitude": 38.893996,
+    "longitude": 65.453686,
+    "name": {
+      "uz": "Kasbi tumani",
+      "uzc": "Касби тумани",
+      "ru": "Касбинский район",
+      "en": "Kasbi",
+      "kaa": "Касби тумани"
+    },
+    "shortName": {
+      "en": "Kasbi",
+      "ru": "Касби",
+      "uz": "Kasbi",
+      "uzc": "Касби"
+    }
+  },
+  {
+    "id": 1706242,
+    "parentId": 1706,
+    "order": 12,
+    "latitude": 39.9331585,
+    "longitude": 64.3826789,
+    "name": {
+      "uz": "Romitan tumani",
+      "uzc": "Ромитан тумани",
+      "ru": "Ромитанский район",
+      "en": "Romitan",
+      "kaa": "Ромитан тумани"
+    },
+    "shortName": {
+      "en": "Romitan",
+      "ru": "Ромитан",
+      "uz": "Romitan",
+      "uzc": "Ромитон"
+    }
+  },
+  {
+    "id": 1714224,
+    "parentId": 1714,
+    "order": 12,
+    "latitude": 40.9966125,
+    "longitude": 71.4584637593,
+    "name": {
+      "uz": "To‘raqo‘rg‘on tumani",
+      "uzc": "Тўрақўрғон тумани",
+      "ru": "Туракурганский район",
+      "en": "To‘raqo‘rg‘on",
+      "kaa": "Тўрақўрғон тумани"
+    },
+    "shortName": {
+      "en": "Turaqurgon",
+      "ru": "Туракурган",
+      "uz": "To‘raqo‘rg‘on",
+      "uzc": "Тўрақўрғон"
+    }
+  },
+  {
+    "id": 1722220,
+    "parentId": 1722,
+    "order": 12,
+    "latitude": 37.2442466,
+    "longitude": 67.283151,
+    "name": {
+      "uz": "Termiz tumani",
+      "uzc": "Термиз тумани",
+      "ru": "Термезский район",
+      "en": "Termiz",
+      "kaa": "Термиз тумани"
+    },
+    "shortName": {
+      "en": "Termiz",
+      "ru": "Термез",
+      "uz": "Termiz",
+      "uzc": "Термиз"
+    }
+  },
+  {
+    "id": 1718212,
+    "parentId": 1718,
+    "order": 12,
+    "latitude": 39.965217,
+    "longitude": 66.4840172,
+    "name": {
+      "uz": "Ishtixon tumani",
+      "uzc": "Иштихон тумани",
+      "ru": "Иштыханский район",
+      "en": "Ishtixon",
+      "kaa": "Иштихон тумани"
+    },
+    "shortName": {
+      "en": "Ishtixon",
+      "ru": "Иштыхан",
+      "uz": "Ishtixon",
+      "uzc": "Иштихон"
+    }
+  },
+  {
+    "id": 1724410,
+    "parentId": 1724,
+    "order": 12,
+    "latitude": 40.2302986,
+    "longitude": 69.1263086,
+    "name": {
+      "uz": "Shirin shahri",
+      "uzc": "Ширин шаҳри",
+      "ru": "Город Ширин",
+      "en": "Shirin",
+      "kaa": "Ширин шаҳри"
+    },
+    "shortName": {
+      "en": "Shirin",
+      "ru": "г. Шиpин",
+      "uz": "Shirin sh.",
+      "uzc": "Ширин ш."
+    }
+  },
+  {
+    "id": 1730206,
+    "parentId": 1730,
+    "order": 13,
+    "latitude": 40.4875326,
+    "longitude": 71.65459117621637,
+    "name": {
+      "uz": "Qo‘shtepa tumani",
+      "uzc": "Қўштепа тумани",
+      "ru": "Куштепинский район",
+      "en": "Qo‘shtepa",
+      "kaa": "Қўштепа тумани"
+    },
+    "shortName": {
+      "en": "Qoshtepa",
+      "ru": "Куштепа",
+      "uz": "Qo‘shtepa",
+      "uzc": "Қўштепа"
+    }
+  },
+  {
+    "id": 1714229,
+    "parentId": 1714,
+    "order": 13,
+    "latitude": 41.030365,
+    "longitude": 71.8513813,
+    "name": {
+      "uz": "Uychi tumani",
+      "uzc": "Уйчи тумани",
+      "ru": "Уйчинский район",
+      "en": "Uychi",
+      "kaa": "Уйчи тумани"
+    },
+    "shortName": {
+      "en": "Uychi",
+      "ru": "Уйчи",
+      "uz": "Uychi",
+      "uzc": "Уйчи"
+    }
+  },
+  {
+    "id": 1724413,
+    "parentId": 1724,
+    "order": 13,
+    "latitude": 40.2700751,
+    "longitude": 68.8165984,
+    "name": {
+      "uz": "Yangiyer shahri",
+      "uzc": "Янгиер шаҳри",
+      "ru": "Город Янгиеp",
+      "en": "Yangiyer",
+      "kaa": "Янгиер шаҳри"
+    },
+    "shortName": {
+      "en": "Yangiyer",
+      "ru": "г. Янгиеp",
+      "uz": "Yangiyer sh.",
+      "uzc": "Янгиер ш."
+    }
+  },
+  {
+    "id": 1706258,
+    "parentId": 1706,
+    "order": 13,
+    "latitude": 40.1186169,
+    "longitude": 64.5022273,
+    "name": {
+      "uz": "Shofirkon tumani",
+      "uzc": "Шофиркон тумани",
+      "ru": "Шафирканский район",
+      "en": "Shofirkon",
+      "kaa": "Шофиркон тумани"
+    },
+    "shortName": {
+      "en": "Shofirkon",
+      "ru": "Шафиркан",
+      "uz": "Shofirkon",
+      "uzc": "Шофиркон"
+    }
+  },
+  {
+    "id": 1722223,
+    "parentId": 1722,
+    "order": 13,
+    "latitude": 37.6711178,
+    "longitude": 67.0166342,
+    "name": {
+      "uz": "Sherobod tumani",
+      "uzc": "Шеробод тумани",
+      "ru": "Шерабадский район",
+      "en": "Sherobod",
+      "kaa": "Шеробод тумани"
+    },
+    "shortName": {
+      "en": "Sherobod",
+      "ru": "Шерабад",
+      "uz": "Sherobod",
+      "uzc": "Шеробод"
+    }
+  },
+  {
+    "id": 1727256,
+    "parentId": 1727,
+    "order": 13,
+    "latitude": 40.9400253,
+    "longitude": 68.7629797,
+    "name": {
+      "uz": "Chinoz tumani",
+      "uzc": "Чиноз тумани",
+      "ru": "Чиназский район",
+      "en": "Chinoz",
+      "kaa": "Чиноз тумани"
+    },
+    "shortName": {
+      "en": "Chinuzk",
+      "ru": "Чиназ",
+      "uz": "Chinuzk",
+      "uzc": "Чиноз"
+    }
+  },
+  {
+    "id": 1708237,
+    "parentId": 1708,
+    "order": 13,
+    "latitude": 39.2067363,
+    "longitude": 66.7529629,
+    "name": {
+      "uz": "Yangiobod tumani",
+      "uzc": "Янгиобод тумани",
+      "ru": "Янгиободский район",
+      "en": "Yangiobod",
+      "kaa": "Янгиобод тумани"
+    },
+    "shortName": {
+      "en": "Yangiobod",
+      "ru": "Янгиобод",
+      "uz": "Yangiobod",
+      "uzc": "Янгиобод"
+    }
+  },
+  {
+    "id": 1718215,
+    "parentId": 1718,
+    "order": 13,
+    "latitude": 39.9018122,
+    "longitude": 66.2684943,
+    "name": {
+      "uz": "Kattaqo‘rg‘on tumani",
+      "uzc": "Каттақўрғон тумани",
+      "ru": "Каттакурганский район",
+      "en": "Kattaqo‘rg‘on",
+      "kaa": "Каттақўрғон тумани"
+    },
+    "shortName": {
+      "en": "Kattaqurgan",
+      "ru": "Каттакурган",
+      "uz": "Kattaqo‘rg‘on",
+      "uzc": "Каттақўрғон"
+    }
+  },
+  {
+    "id": 1712412,
+    "parentId": 1712,
+    "order": 13,
+    "latitude": 40.5894213,
+    "longitude": 65.4939992,
+    "name": {
+      "uz": "G‘ozg‘on shahri",
+      "uzc": "Ғозғон шаҳри",
+      "ru": "Город Газган",
+      "en": "G‘ozg‘on",
+      "kaa": "Ғозғон шаҳри"
+    },
+    "shortName": {
+      "en": "Guzkgon",
+      "ru": "г. Газган",
+      "uz": "G‘uzkg‘on sh.",
+      "uzc": "Ғозғон ш."
+    }
+  },
+  {
+    "id": 1735218,
+    "parentId": 1735,
+    "order": 13,
+    "latitude": 42.8361463,
+    "longitude": 59.0064653,
+    "name": {
+      "uz": "Qanliko‘l tumani",
+      "uzc": "Қанликўл тумани",
+      "ru": "Канлыкульский район",
+      "en": "Qanliko‘l",
+      "kaa": "Қанликўл тумани"
+    },
+    "shortName": {
+      "en": "Kanlykul",
+      "ru": "Канлыкуль",
+      "uz": "Qanliko‘l",
+      "uzc": "Қонликўл"
+    }
+  },
+  {
+    "id": 1703217,
+    "parentId": 1703,
+    "order": 13,
+    "latitude": 40.76184535,
+    "longitude": 71.70106929388982,
+    "name": {
+      "uz": "Ulug‘nor tumani",
+      "uzc": "Улуғнор тумани",
+      "ru": "Улугноpский район",
+      "en": "Ulug‘nor",
+      "kaa": "Улуғнор тумани"
+    },
+    "shortName": {
+      "en": "Ulug‘nor",
+      "ru": "Улугноp",
+      "uz": "Ulug‘nor",
+      "uzc": "Улуғнор"
+    }
+  },
+  {
+    "id": 1714234,
+    "parentId": 1714,
+    "order": 14,
+    "latitude": 41.114592,
+    "longitude": 72.0776281,
+    "name": {
+      "uz": "Uchqo‘rg‘on tumani",
+      "uzc": "Учқўрғон тумани",
+      "ru": "Учкурганский район",
+      "en": "Uchqo‘rg‘on",
+      "kaa": "Учқўрғон тумани"
+    },
+    "shortName": {
+      "en": "Uchqurgon",
+      "ru": "Учкурган",
+      "uz": "Uchqo‘rg‘on",
+      "uzc": "Учқўрғон"
+    }
+  },
+  {
+    "id": 1735222,
+    "parentId": 1735,
+    "order": 14,
+    "latitude": 43.7643276,
+    "longitude": 59.0297467,
+    "name": {
+      "uz": "Mo‘ynoq tumani",
+      "uzc": "Мўйноқ тумани",
+      "ru": "Муйнакский район",
+      "en": "Mo‘ynoq",
+      "kaa": "Мўйноқ тумани"
+    },
+    "shortName": {
+      "en": "Muynak",
+      "ru": "Муйнак",
+      "uz": "Mo‘ynoq",
+      "uzc": "Мўйноқ"
+    }
+  },
+  {
+    "id": 1727233,
+    "parentId": 1727,
+    "order": 14,
+    "latitude": 40.934418,
+    "longitude": 68.997737,
+    "name": {
+      "uz": "Quyichirchiq tumani",
+      "uzc": "Қуйичирчиқ тумани",
+      "ru": "Куйичирчикский район",
+      "en": "Quyichirchiq",
+      "kaa": "Қуйичирчиқ тумани"
+    },
+    "shortName": {
+      "en": "Quyichirchiq",
+      "ru": "Куйичирчик",
+      "uz": "Quyichirchiq",
+      "uzc": "Қуйичирчиқ"
+    }
+  },
+  {
+    "id": 1718216,
+    "parentId": 1718,
+    "order": 14,
+    "latitude": 40.2475733,
+    "longitude": 66.645633133,
+    "name": {
+      "uz": "Qo‘shrabot tumani",
+      "uzc": "Қўшработ тумани",
+      "ru": "Кошрабадский район",
+      "en": "Qo‘shrabot",
+      "kaa": "Қўшработ тумани"
+    },
+    "shortName": {
+      "en": "Qushrabot",
+      "ru": "Кошрабад",
+      "uz": "Qo‘shrabot",
+      "uzc": "Қўшработ"
+    }
+  },
+  {
+    "id": 1710242,
+    "parentId": 1710,
+    "order": 14,
+    "latitude": 39.03341,
+    "longitude": 66.5758025,
+    "name": {
+      "uz": "Chiroqchi tumani",
+      "uzc": "Чироқчи тумани",
+      "ru": "Чиракчинский район",
+      "en": "Chiroqchi",
+      "kaa": "Чироқчи тумани"
+    },
+    "shortName": {
+      "en": "Chiroqchi",
+      "ru": "Чиракчи",
+      "uz": "Chiroqchi",
+      "uzc": "Чироқчи"
+    }
+  },
+  {
+    "id": 1703220,
+    "parentId": 1703,
+    "order": 14,
+    "latitude": 40.733957,
+    "longitude": 72.7628617,
+    "name": {
+      "uz": "Qo‘rg‘ontepa tumani",
+      "uzc": "Қўрғонтепа тумани",
+      "ru": "Кургантепинский район",
+      "en": "Qo‘rg‘ontepa",
+      "kaa": "Қўрғонтепа тумани"
+    },
+    "shortName": {
+      "en": "Qorgontepa",
+      "ru": "Кургантепа",
+      "uz": "Qo‘rg‘ontepa",
+      "uzc": "Қўрғонтепа"
+    }
+  },
+  {
+    "id": 1722226,
+    "parentId": 1722,
+    "order": 14,
+    "latitude": 37.9981593,
+    "longitude": 67.7908474,
+    "name": {
+      "uz": "Sho‘rchi tumani",
+      "uzc": "Шўрчи тумани",
+      "ru": "Шурчинский район",
+      "en": "Sho‘rchi",
+      "kaa": "Шўрчи тумани"
+    },
+    "shortName": {
+      "en": "Shurchi",
+      "ru": "Шурчи",
+      "uz": "Sho‘rchi",
+      "uzc": "Шўрчи"
+    }
+  },
+  {
+    "id": 1730224,
+    "parentId": 1730,
+    "order": 14,
+    "latitude": 40.36026715,
+    "longitude": 71.2798244263,
+    "name": {
+      "uz": "Rishton tumani",
+      "uzc": "Риштон тумани",
+      "ru": "Риштанский район",
+      "en": "Rishton",
+      "kaa": "Риштон тумани"
+    },
+    "shortName": {
+      "en": "Rishton",
+      "ru": "Риштан",
+      "uz": "Rishton",
+      "uzc": "Риштон"
+    }
+  },
+  {
+    "id": 1706232,
+    "parentId": 1706,
+    "order": 14,
+    "latitude": 39.4972639,
+    "longitude": 64.7832912,
+    "name": {
+      "uz": "Qorovulbozor tumani",
+      "uzc": "Қоровулбозор тумани",
+      "ru": "Караулбазарский район",
+      "en": "Qorovulbozor",
+      "kaa": "Қоровулбозор тумани"
+    },
+    "shortName": {
+      "en": "Qorovulbuzkor",
+      "ru": "Караулбазар",
+      "uz": "Qorovulbuzkor",
+      "uzc": "Қоравулбозор"
+    }
+  },
+  {
+    "id": 1714236,
+    "parentId": 1714,
+    "order": 15,
+    "latitude": 41.0714194,
+    "longitude": 71.8189789,
+    "name": {
+      "uz": "Chortoq tumani",
+      "uzc": "Чортоқ тумани",
+      "ru": "Чартакский район",
+      "en": "Chortoq",
+      "kaa": "Чортоқ тумани"
+    },
+    "shortName": {
+      "en": "Chortoq",
+      "ru": "Чартак",
+      "uz": "Chortoq",
+      "uzc": "Чортоқ"
+    }
+  },
+  {
+    "id": 1703224,
+    "parentId": 1703,
+    "order": 15,
+    "latitude": 40.66772,
+    "longitude": 72.237619,
+    "name": {
+      "uz": "Asaka tumani",
+      "uzc": "Асака тумани",
+      "ru": "Асакинский район",
+      "en": "Asaka",
+      "kaa": "Асака тумани"
+    },
+    "shortName": {
+      "en": "Asaka",
+      "ru": "Асака",
+      "uz": "Asaka",
+      "uzc": "Асака"
+    }
+  },
+  {
+    "id": 1730226,
+    "parentId": 1730,
+    "order": 15,
+    "latitude": 39.9492827,
+    "longitude": 71.1402113,
+    "name": {
+      "uz": "So‘x tumani",
+      "uzc": "Сўх тумани",
+      "ru": "Сохский район",
+      "en": "So‘x",
+      "kaa": "Сўх тумани"
+    },
+    "shortName": {
+      "en": "Sox",
+      "ru": "Сох",
+      "uz": "So‘x",
+      "uzc": "Сўх"
+    }
+  },
+  {
+    "id": 1710245,
+    "parentId": 1710,
+    "order": 15,
+    "latitude": 39.0525821,
+    "longitude": 66.8278643,
+    "name": {
+      "uz": "Shahrisabz tumani",
+      "uzc": "Шаҳрисабз тумани",
+      "ru": "Шахрисабзский район",
+      "en": "Shahrisabz",
+      "kaa": "Шаҳрисабз тумани"
+    },
+    "shortName": {
+      "en": "Shahrisabz",
+      "ru": "Шахрисабз",
+      "uz": "Shahrisabz",
+      "uzc": "Шахрисабз"
+    }
+  },
+  {
+    "id": 1718218,
+    "parentId": 1718,
+    "order": 15,
+    "latitude": 39.91631639,
+    "longitude": 66.22784598,
+    "name": {
+      "uz": "Narpay tumani",
+      "uzc": "Нарпай тумани",
+      "ru": "Нарпайский район",
+      "en": "Narpay",
+      "kaa": "Нарпай тумани"
+    },
+    "shortName": {
+      "en": "Narpay",
+      "ru": "Нарпай",
+      "uz": "Narpay",
+      "uzc": "Нарпай"
+    }
+  },
+  {
+    "id": 1735225,
+    "parentId": 1735,
+    "order": 15,
+    "latitude": 42.4600229,
+    "longitude": 59.6176603,
+    "name": {
+      "uz": "Nukus tumani",
+      "uzc": "Нукус тумани",
+      "ru": "Нукусский район",
+      "en": "Nukus",
+      "kaa": "Нукус тумани"
+    },
+    "shortName": {
+      "en": "Nukus",
+      "ru": "Нукус",
+      "uz": "Nukus",
+      "uzc": "Нукус"
+    }
+  },
+  {
+    "id": 1727259,
+    "parentId": 1727,
+    "order": 15,
+    "latitude": 41.1195985,
+    "longitude": 69.0568128,
+    "name": {
+      "uz": "Yangiyo‘l tumani",
+      "uzc": "Янгийўл тумани",
+      "ru": "Янгиюльский район",
+      "en": "Yangiyo‘l",
+      "kaa": "Янгийўл тумани"
+    },
+    "shortName": {
+      "en": "Yangiyol",
+      "ru": "Янгиюль",
+      "uz": "Yangiyo‘l",
+      "uzc": "Янгийўл"
+    }
+  },
+  {
+    "id": 1722221,
+    "parentId": 1722,
+    "order": 15,
+    "latitude": 38.3653682,
+    "longitude": 68.0066697,
+    "name": {
+      "uz": "Uzun tumani",
+      "uzc": "Узун тумани",
+      "ru": "Узунский район",
+      "en": "Uzun",
+      "kaa": "Узун тумани"
+    },
+    "shortName": {
+      "en": "Uzun",
+      "ru": "Узун",
+      "uz": "Uzun",
+      "uzc": "Узун"
+    }
+  },
+  {
+    "id": 1703227,
+    "parentId": 1703,
+    "order": 16,
+    "latitude": 40.5041955,
+    "longitude": 72.3346868,
+    "name": {
+      "uz": "Marxamat tumani",
+      "uzc": "Мархамат тумани",
+      "ru": "Мархаматский район",
+      "en": "Marxamat",
+      "kaa": "Мархамат тумани"
+    },
+    "shortName": {
+      "en": "Marxamat",
+      "ru": "Мархамат",
+      "uz": "Marxamat",
+      "uzc": "Мархамат"
+    }
+  },
+  {
+    "id": 1710250,
+    "parentId": 1710,
+    "order": 16,
+    "latitude": 38.9784579,
+    "longitude": 66.6830855,
+    "name": {
+      "uz": "Yakkabog‘ tumani",
+      "uzc": "Яккабоғ тумани",
+      "ru": "Яккабагский район",
+      "en": "Yakkabog‘",
+      "kaa": "Яккабоғ тумани"
+    },
+    "shortName": {
+      "en": "Yakkabog",
+      "ru": "Яккабаг",
+      "uz": "Yakkabog‘",
+      "uzc": "Яккабоғ"
+    }
+  },
+  {
+    "id": 1714237,
+    "parentId": 1714,
+    "order": 16,
+    "latitude": 40.9966246,
+    "longitude": 71.2273399,
+    "name": {
+      "uz": "Chust tumani",
+      "uzc": "Чуст тумани",
+      "ru": "Чустский район",
+      "en": "Chust",
+      "kaa": "Чуст тумани"
+    },
+    "shortName": {
+      "en": "Chust",
+      "ru": "Чуст",
+      "uz": "Chust",
+      "uzc": "Чуст"
+    }
+  },
+  {
+    "id": 1727407,
+    "parentId": 1727,
+    "order": 16,
+    "latitude": 41.0212207,
+    "longitude": 70.0795361,
+    "name": {
+      "uz": "Angren tumani",
+      "uzc": "Ангрен тумани",
+      "ru": "Ангренский район",
+      "en": "Angren",
+      "kaa": "Ангрен тумани"
+    },
+    "shortName": {
+      "en": "Angren city",
+      "ru": "г. Ангрен",
+      "uz": "Angren sh.",
+      "uzc": "Ангрен ш."
+    }
+  },
+  {
+    "id": 1735230,
+    "parentId": 1735,
+    "order": 16,
+    "latitude": 43.0207211,
+    "longitude": 60.2893338,
+    "name": {
+      "uz": "Taxtako‘pir tumani",
+      "uzc": "Тахтакўпир тумани",
+      "ru": "Тахтакупырский район",
+      "en": "Taxtako‘pir",
+      "kaa": "Тахтакўпир тумани"
+    },
+    "shortName": {
+      "en": "Takhtakupir",
+      "ru": "Тахтакупыр",
+      "uz": "Taxtako‘pir",
+      "uzc": "Тахтакўпир"
+    }
+  },
+  {
+    "id": 1722203,
+    "parentId": 1722,
+    "order": 16,
+    "latitude": 37.8608279,
+    "longitude": 67.3883458,
+    "name": {
+      "uz": "Bandixon tumani",
+      "uzc": "Бандихон тумани",
+      "ru": "Бандихонский район",
+      "en": "Bandixon",
+      "kaa": "Бандихон тумани"
+    },
+    "shortName": {
+      "en": "Bandixon",
+      "ru": "Бандихон",
+      "uz": "Bandixon",
+      "uzc": "Бандихон"
+    }
+  },
+  {
+    "id": 1730227,
+    "parentId": 1730,
+    "order": 16,
+    "latitude": 40.4856749,
+    "longitude": 71.7589621,
+    "name": {
+      "uz": "Toshloq tumani",
+      "uzc": "Тошлоқ тумани",
+      "ru": "Ташлакский район",
+      "en": "Toshloq",
+      "kaa": "Тошлоқ тумани"
+    },
+    "shortName": {
+      "en": "Toshloq",
+      "ru": "Ташлак",
+      "uz": "Toshloq",
+      "uzc": "Тошлоқ"
+    }
+  },
+  {
+    "id": 1735233,
+    "parentId": 1735,
+    "order": 17,
+    "latitude": 41.5544131,
+    "longitude": 61.0002405,
+    "name": {
+      "uz": "To‘rtko‘l tumani",
+      "uzc": "Тўрткўл тумани",
+      "ru": "Турткульский район",
+      "en": "To‘rtko‘l",
+      "kaa": "Тўрткўл тумани"
+    },
+    "shortName": {
+      "en": "Turtkul",
+      "ru": "Турткуль",
+      "uz": "To‘rtko‘l",
+      "uzc": "Тўрткўл"
+    }
+  },
+  {
+    "id": 1730230,
+    "parentId": 1730,
+    "order": 17,
+    "latitude": 40.34805,
+    "longitude": 70.876124,
+    "name": {
+      "uz": "O‘zbekiston tumani",
+      "uzc": "Ўзбекистон тумани",
+      "ru": "Узбекистанский район",
+      "en": "O‘zbekiston",
+      "kaa": "Ўзбекистон тумани"
+    },
+    "shortName": {
+      "en": "Uzbekistan",
+      "ru": "Узбекистан",
+      "uz": "O‘zbekiston",
+      "uzc": "Ўзбекистон"
+    }
+  },
+  {
+    "id": 1727413,
+    "parentId": 1727,
+    "order": 17,
+    "latitude": 40.2320291,
+    "longitude": 69.2531407,
+    "name": {
+      "uz": "Bekobod tumani",
+      "uzc": "Бекобод тумани",
+      "ru": "Бекабадский район",
+      "en": "Bekobod",
+      "kaa": "Бекобод тумани"
+    },
+    "shortName": {
+      "en": "Bekobod city",
+      "ru": "г. Бекабад",
+      "uz": "Bekobod sh.",
+      "uzc": "Бекобод ш."
+    }
+  },
+  {
+    "id": 1710233,
+    "parentId": 1710,
+    "order": 17,
+    "latitude": 38.8901443,
+    "longitude": 65.3088054,
+    "name": {
+      "uz": "Mirishkor tumani",
+      "uzc": "Миришкор тумани",
+      "ru": "Миришкорский район",
+      "en": "Mirishkor",
+      "kaa": "Миришкор тумани"
+    },
+    "shortName": {
+      "en": "Mirishkor",
+      "ru": "Миришкор",
+      "uz": "Mirishkor",
+      "uzc": "Миришкор"
+    }
+  },
+  {
+    "id": 1703230,
+    "parentId": 1703,
+    "order": 17,
+    "latitude": 40.72976185,
+    "longitude": 72.16055515739295,
+    "name": {
+      "uz": "Shaxrixon tumani",
+      "uzc": "Шахрихон тумани",
+      "ru": "Шахриханский район",
+      "en": "Shaxrixon",
+      "kaa": "Шахрихон тумани"
+    },
+    "shortName": {
+      "en": "Shahrihon",
+      "ru": "Шахрихан",
+      "uz": "Shaxrixon",
+      "uzc": "Шахрихон"
+    }
+  },
+  {
+    "id": 1718224,
+    "parentId": 1718,
+    "order": 17,
+    "latitude": 40.016908,
+    "longitude": 66.886589,
+    "name": {
+      "uz": "Payariq tumani",
+      "uzc": "Паяриқ тумани",
+      "ru": "Пайарыкский район",
+      "en": "Payariq",
+      "kaa": "Паяриқ тумани"
+    },
+    "shortName": {
+      "en": "Payariq",
+      "ru": "Пайарык",
+      "uz": "Payariq",
+      "uzc": "Пайариқ"
+    }
+  },
+  {
+    "id": 1714242,
+    "parentId": 1714,
+    "order": 17,
+    "latitude": 39.931389,
+    "longitude": 66.650833,
+    "name": {
+      "uz": "Yangiqo‘rg‘on tumani",
+      "uzc": "Янгиқўрғон тумани",
+      "ru": "Янгикурганский район",
+      "en": "Yangiqo‘rg‘on",
+      "kaa": "Янгиқўрғон тумани"
+    },
+    "shortName": {
+      "en": "Yangiqurgon",
+      "ru": "Янгикурган",
+      "uz": "Yangiqo‘rg‘on",
+      "uzc": "Янгиқўрғон"
+    }
+  },
+  {
+    "id": 1714410,
+    "parentId": 1714,
+    "order": 18,
+    "latitude": 39.8665775,
+    "longitude": 64.3709998,
+    "name": {
+      "uz": "Davlatobod tumani",
+      "uzc": "Давлатобод тумани",
+      "ru": "Давлатабадский район",
+      "en": "Davlatobod",
+      "kaa": "Давлатобод тумани"
+    },
+    "shortName": {
+      "en": "Davlatobod",
+      "ru": "Давлатабад",
+      "uz": "Davlatobod",
+      "uzc": "Давлатобод"
+    }
+  },
+  {
+    "id": 1703232,
+    "parentId": 1703,
+    "order": 18,
+    "latitude": 40.9275291,
+    "longitude": 72.498114,
+    "name": {
+      "uz": "Paxtaobod tumani",
+      "uzc": "Пахтаобод тумани",
+      "ru": "Пахтаабадский район",
+      "en": "Paxtaobod",
+      "kaa": "Пахтаобод тумани"
+    },
+    "shortName": {
+      "en": "Paxtaobod",
+      "ru": "Пахтаабад",
+      "uz": "Paxtaobod",
+      "uzc": "Пахтаобод"
+    }
+  },
+  {
+    "id": 1735236,
+    "parentId": 1735,
+    "order": 18,
+    "latitude": 42.4132703,
+    "longitude": 59.452518,
+    "name": {
+      "uz": "Xo‘jayli tumani",
+      "uzc": "Хўжайли тумани",
+      "ru": "Ходжейлийский район",
+      "en": "Xo‘jayli",
+      "kaa": "Хўжайли тумани"
+    },
+    "shortName": {
+      "en": "Khojeyli",
+      "ru": "Ходжейли",
+      "uz": "Xo‘jayli",
+      "uzc": "Хўжайли"
+    }
+  },
+  {
+    "id": 1727404,
+    "parentId": 1727,
+    "order": 18,
+    "latitude": 40.8546737,
+    "longitude": 69.612059563,
+    "name": {
+      "uz": "Olmaliq shahri",
+      "uzc": "Олмалиқ шаҳри",
+      "ru": "Город Алмалык",
+      "en": "Olmaliq",
+      "kaa": "Олмалиқ шаҳри"
+    },
+    "shortName": {
+      "en": "Olmaliq city",
+      "ru": "г. Алмалык",
+      "uz": "Olmaliq sh.",
+      "uzc": "Олмалиқ ш."
+    }
+  },
+  {
+    "id": 1730221,
+    "parentId": 1730,
+    "order": 18,
+    "latitude": 40.5467254,
+    "longitude": 71.0551575552,
+    "name": {
+      "uz": "Uchko‘prik tumani",
+      "uzc": "Учкўприк тумани",
+      "ru": "Учкуприкский район",
+      "en": "Uchko‘prik",
+      "kaa": "Учкўприк тумани"
+    },
+    "shortName": {
+      "en": "Uchkoprik",
+      "ru": "Учкуприк",
+      "uz": "Uchko‘prik",
+      "uzc": "Учкўприк"
+    }
+  },
+  {
+    "id": 1718227,
+    "parentId": 1718,
+    "order": 18,
+    "latitude": 39.660431,
+    "longitude": 66.662297,
+    "name": {
+      "uz": "Pastdarg‘om tumani",
+      "uzc": "Пастдарғом тумани",
+      "ru": "Пастдаргомский район",
+      "en": "Pastdarg‘om",
+      "kaa": "Пастдарғом тумани"
+    },
+    "shortName": {
+      "en": "Pastdargom",
+      "ru": "Пастдаргом",
+      "uz": "Pastdarg‘om",
+      "uzc": "Пастдарғом"
+    }
+  },
+  {
+    "id": 1710240,
+    "parentId": 1710,
+    "order": 18,
+    "latitude": 39.222321,
+    "longitude": 66.163125,
+    "name": {
+      "uz": "Ko‘kdala tumani",
+      "uzc": "Кўкдала тумани",
+      "ru": "Кокдальский район",
+      "en": "Ko‘kdala",
+      "kaa": "Кўкдала тумани"
+    },
+    "shortName": {
+      "en": "Kukdala",
+      "ru": "Кукдаля",
+      "uz": "Ko‘kdala",
+      "uzc": "Кўкдала"
+    }
+  },
+  {
+    "id": 1718230,
+    "parentId": 1718,
+    "order": 19,
+    "latitude": 39.8862893,
+    "longitude": 65.500061,
+    "name": {
+      "uz": "Paxtachi tumani",
+      "uzc": "Пахтачи тумани",
+      "ru": "Пахтачийский район",
+      "en": "Paxtachi",
+      "kaa": "Пахтачи тумани"
+    },
+    "shortName": {
+      "en": "Paxtachi",
+      "ru": "Пахтачи",
+      "uz": "Paxtachi",
+      "uzc": "Пахтачи"
+    }
+  },
+  {
+    "id": 1727415,
+    "parentId": 1727,
+    "order": 19,
+    "latitude": 40.905354,
+    "longitude": 69.6400706,
+    "name": {
+      "uz": "Ohangaron tumani",
+      "uzc": "Оҳангарон тумани",
+      "ru": "Ohangaron tumani",
+      "en": "Ohangaron",
+      "kaa": "Оҳангарон тумани"
+    },
+    "shortName": {
+      "en": "Ohangaron city",
+      "ru": "г. Ахангаран",
+      "uz": "Ohangaron sh.",
+      "uzc": "Охангарон ш."
+    }
+  },
+  {
+    "id": 1703236,
+    "parentId": 1703,
+    "order": 19,
+    "latitude": 40.9317327,
+    "longitude": 72.0087521,
+    "name": {
+      "uz": "Xo‘jaobod tumani",
+      "uzc": "Хўжаобод тумани",
+      "ru": "Ходжаабадский район",
+      "en": "Xo‘jaobod",
+      "kaa": "Хўжаобод тумани"
+    },
+    "shortName": {
+      "en": "Xo‘jaobod",
+      "ru": "Ходжаабад",
+      "uz": "Xo‘jaobod",
+      "uzc": "Хўжаобод"
+    }
+  },
+  {
+    "id": 1730233,
+    "parentId": 1730,
+    "order": 19,
+    "latitude": 40.29003,
+    "longitude": 71.758674,
+    "name": {
+      "uz": "Farg‘ona tumani",
+      "uzc": "Фарғона тумани",
+      "ru": "Ферганский район",
+      "en": "Farg‘ona",
+      "kaa": "Фарғона тумани"
+    },
+    "shortName": {
+      "en": "Fergana",
+      "ru": "Фергана",
+      "uz": "Farg‘ona",
+      "uzc": "Фарғона"
+    }
+  },
+  {
+    "id": 1714415,
+    "parentId": 1714,
+    "order": 19,
+    "latitude": 41.074121,
+    "longitude": 71.624137522,
+    "name": {
+      "uz": "Yangi Namangan tumani",
+      "uzc": "Янги Наманган тумани",
+      "ru": "Янги Наманганский район",
+      "en": "Yangi Namangan",
+      "kaa": "Янги Наманган тумани"
+    },
+    "shortName": {
+      "en": "New Namangan",
+      "ru": "Новый Наманган",
+      "uz": "Yangi Namangan",
+      "uzc": "Янги Наманган"
+    }
+  },
+  {
+    "id": 1735240,
+    "parentId": 1735,
+    "order": 19,
+    "latitude": 42.933726,
+    "longitude": 59.7785397,
+    "name": {
+      "uz": "Chimboy tumani",
+      "uzc": "Чимбой тумани",
+      "ru": "Чимбайский район",
+      "en": "Chimboy",
+      "kaa": "Чимбой тумани"
+    },
+    "shortName": {
+      "en": "Chimbay",
+      "ru": "Чимбай",
+      "uz": "Chimboy",
+      "uzc": "Чимбой"
+    }
+  },
+  {
+    "id": 1718233,
+    "parentId": 1718,
+    "order": 20,
+    "latitude": 39.6550017,
+    "longitude": 66.9756954,
+    "name": {
+      "uz": "Samarqand tumani",
+      "uzc": "Самарқанд тумани",
+      "ru": "Самаркандский район",
+      "en": "Samarqand",
+      "kaa": "Самарқанд тумани"
+    },
+    "shortName": {
+      "en": "Samarqand",
+      "ru": "Самарканд",
+      "uz": "Samarqand",
+      "uzc": "Самарқанд"
+    }
+  },
+  {
+    "id": 1727419,
+    "parentId": 1727,
+    "order": 20,
+    "latitude": 41.4726157,
+    "longitude": 69.5811915,
+    "name": {
+      "uz": "Chirchiq shahri",
+      "uzc": "Чирчиқ шаҳри",
+      "ru": "Город Чиpчик",
+      "en": "Chirchiq",
+      "kaa": "Чирчиқ шаҳри"
+    },
+    "shortName": {
+      "en": "Chirchiq city",
+      "ru": "г. Чиpчик",
+      "uz": "Chirchiq sh.",
+      "uzc": "Чирчиқ ш."
+    }
+  },
+  {
+    "id": 1735243,
+    "parentId": 1735,
+    "order": 20,
+    "latitude": 42.6372283,
+    "longitude": 58.9297535,
+    "name": {
+      "uz": "Shumanay tumani",
+      "uzc": "Шуманай тумани",
+      "ru": "Шуманайский район",
+      "en": "Shumanay",
+      "kaa": "Шуманай тумани"
+    },
+    "shortName": {
+      "en": "Shumanay",
+      "ru": "Шуманай",
+      "uz": "Shumanay",
+      "uzc": "Шуманай"
+    }
+  },
+  {
+    "id": 1730238,
+    "parentId": 1730,
+    "order": 20,
+    "latitude": 40.5054357,
+    "longitude": 70.7808497,
+    "name": {
+      "uz": "Furqat tumani",
+      "uzc": "Фурқат тумани",
+      "ru": "Фуркатский район",
+      "en": "Furqat",
+      "kaa": "Фурқат тумани"
+    },
+    "shortName": {
+      "en": "Furqat",
+      "ru": "Фуркат",
+      "uz": "Furqat",
+      "uzc": "Фурқат"
+    }
+  },
+  {
+    "id": 1718235,
+    "parentId": 1718,
+    "order": 21,
+    "latitude": 39.6093429,
+    "longitude": 66.2911671,
+    "name": {
+      "uz": "Nurobod tumani",
+      "uzc": "Нуробод тумани",
+      "ru": "Нурабадский район",
+      "en": "Nurobod",
+      "kaa": "Нуробод тумани"
+    },
+    "shortName": {
+      "en": "Nurobod",
+      "ru": "Нурабад",
+      "uz": "Nurobod",
+      "uzc": "Нуробод"
+    }
+  },
+  {
+    "id": 1735250,
+    "parentId": 1735,
+    "order": 21,
+    "latitude": 41.8264075,
+    "longitude": 60.9259379,
+    "name": {
+      "uz": "Ellikqal’a tumani",
+      "uzc": "Элликқалъа тумани",
+      "ru": "Элликкалинский район",
+      "en": "Ellikqal’a",
+      "kaa": "Элликқалъа тумани"
+    },
+    "shortName": {
+      "en": "Ellikkala",
+      "ru": "Элликкала",
+      "uz": "Ellikkala",
+      "uzc": "Элликқалъа"
+    }
+  },
+  {
+    "id": 1718236,
+    "parentId": 1718,
+    "order": 22,
+    "latitude": 39.4092386,
+    "longitude": 67.2494167,
+    "name": {
+      "uz": "Urgut tumani",
+      "uzc": "Ургут тумани",
+      "ru": "Ургутский район",
+      "en": "Urgut",
+      "kaa": "Ургут тумани"
+    },
+    "shortName": {
+      "en": "Urgut",
+      "ru": "Ургут",
+      "uz": "Urgut",
+      "uzc": "Ургут"
+    }
+  },
+  {
+    "id": 1735211,
+    "parentId": 1735,
+    "order": 22,
+    "latitude": 42.1069488,
+    "longitude": 60.37959069,
+    "name": {
+      "uz": "Qorao‘zak tumani",
+      "uzc": "Қораўзак тумани",
+      "ru": "Караузякский район",
+      "en": "Qorao‘zak",
+      "kaa": "Қораўзак тумани"
+    },
+    "shortName": {
+      "en": "Karauzkek",
+      "ru": "Караузяк",
+      "uz": "Qorao‘zak",
+      "uzc": "Қораўзак"
+    }
+  },
+  {
+    "id": 1727424,
+    "parentId": 1727,
+    "order": 22,
+    "latitude": 41.1195985,
+    "longitude": 69.0568128,
+    "name": {
+      "uz": "Yangiyo‘l tumani",
+      "uzc": "Янгийўл тумани",
+      "ru": "Янгиюльский район",
+      "en": "Yangiyo‘l",
+      "kaa": "Янгийўл тумани"
+    },
+    "shortName": {
+      "en": "Yangiyol city",
+      "ru": "г. Янгиюль",
+      "uz": "Yangiyo‘l sh.",
+      "uzc": "Янгийўл ш."
+    }
+  },
+  {
+    "id": 1727401,
+    "parentId": 1727,
+    "order": 23,
+    "latitude": 41.0473121,
+    "longitude": 69.36102467419,
+    "name": {
+      "uz": "Nurafshon tumani",
+      "uzc": "Нурафшон шаҳри",
+      "ru": "Нурафшанский район",
+      "en": "Nurafshon",
+      "kaa": "Нурафшон шаҳри"
+    },
+    "shortName": {
+      "en": "Nurafshon city",
+      "ru": "г. Нурафшан",
+      "uz": "Nurafshon sh.",
+      "uzc": "Нурафшон ш."
+    }
+  },
+  {
+    "id": 1735228,
+    "parentId": 1735,
+    "order": 23,
+    "latitude": 42.33731425,
+    "longitude": 59.53512692,
+    "name": {
+      "uz": "Taxiatosh tumani",
+      "uzc": "Тахиатош тумани",
+      "ru": "Тахиаташский район",
+      "en": "Taxiatosh",
+      "kaa": "Тахиатош тумани"
+    },
+    "shortName": {
+      "en": "Taxiatosh",
+      "ru": "Тахиаташ",
+      "uz": "Taxiatosh",
+      "uzc": "Тахиатош"
+    }
+  }
+]
